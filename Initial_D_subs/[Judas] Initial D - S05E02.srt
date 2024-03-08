@@ -1,0 +1,1622 @@
+1
+00:00:00,014 --> 00:00:04,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}"This story is fiction.</b></font>
+
+2
+00:00:00,014 --> 00:00:04,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}All names of characters, places and</b></font>
+
+3
+00:00:00,014 --> 00:00:04,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}organizations in the story are fictional.</b></font>
+
+4
+00:00:00,014 --> 00:00:04,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}Follow the traffic rules and drive safely."</b></font>
+
+5
+00:00:10,164 --> 00:00:12,214
+<font face="Open Sans Semibold" size="66"><b>{\an5}Initial D</b></font>
+
+6
+00:00:18,944 --> 00:00:23,774
+<font face="Open Sans Semibold" size="73"><b>Raise up your hands high.
+(Everybody now raise your hands)</b></font>
+
+7
+00:00:23,774 --> 00:00:28,014
+<font face="Open Sans Semibold" size="73"><b>Take hold, there's a brand new tomorrow.
+(You don't stop)</b></font>
+
+8
+00:00:28,014 --> 00:00:30,484
+<font face="Open Sans Semibold" size="73"><b>It's a beautiful eternal dream</b></font>
+
+9
+00:00:30,484 --> 00:00:33,634
+<font face="Open Sans Semibold" size="73"><b>where you learn about yourself.</b></font>
+
+10
+00:00:33,714 --> 00:00:34,634
+<font face="Open Sans Semibold" size="73"><b>(Let's go)</b></font>
+
+11
+00:00:34,634 --> 00:00:35,864
+<font face="Open Sans Semibold" size="73"><b>Oh
+(Let's go)</b></font>
+
+12
+00:00:35,864 --> 00:00:38,364
+<font face="Open Sans Semibold" size="73"><b>Oh, raise up your hands now.</b></font>
+
+13
+00:00:38,364 --> 00:00:43,574
+<font face="Open Sans Semibold" size="73"><b>If you think you're lucky just to be alive
+go for the highest stake in the gamble.</b></font>
+
+14
+00:00:43,574 --> 00:00:45,794
+<font face="Open Sans Semibold" size="73"><b>Same mission creates similar lives.</b></font>
+
+15
+00:00:45,794 --> 00:00:48,494
+<font face="Open Sans Semibold" size="73"><b>But your passion for your dream will make a difference.</b></font>
+
+16
+00:00:48,494 --> 00:00:50,914
+<font face="Open Sans Semibold" size="73"><b>You can never use the escalator.</b></font>
+
+17
+00:00:50,914 --> 00:00:53,304
+<font face="Open Sans Semibold" size="73"><b>But you can build up your strength, yeah yeah.</b></font>
+
+18
+00:00:53,304 --> 00:00:55,214
+<font face="Open Sans Semibold" size="73"><b>You must eventually climb the stairs.</b></font>
+
+19
+00:00:55,214 --> 00:00:58,094
+<font face="Open Sans Semibold" size="73"><b>Customize them the way you like.</b></font>
+
+20
+00:00:58,094 --> 00:01:03,114
+<font face="Open Sans Semibold" size="73"><b>Intense days go by.
+(But you know)</b></font>
+
+21
+00:01:03,114 --> 00:01:07,814
+<font face="Open Sans Semibold" size="73"><b>Just laugh it off, because it's a game worth competing.</b></font>
+
+22
+00:01:07,814 --> 00:01:10,344
+<font face="Open Sans Semibold" size="73"><b>Let's see how fast you can do it.</b></font>
+
+23
+00:01:10,344 --> 00:01:15,164
+<font face="Open Sans Semibold" size="73"><b>Raise up your hands forever.
+(Everybody now raise your hands up)</b></font>
+
+24
+00:01:15,164 --> 00:01:19,394
+<font face="Open Sans Semibold" size="73"><b>Run, sleepless challenger.
+(You don't stop)</b></font>
+
+25
+00:01:19,394 --> 00:01:21,854
+<font face="Open Sans Semibold" size="73"><b>It's a quest of the never ending dream</b></font>
+
+26
+00:01:21,854 --> 00:01:26,014
+<font face="Open Sans Semibold" size="73"><b>where you now search for the reason to live.
+(Let's go)</b></font>
+
+27
+00:01:26,014 --> 00:01:27,064
+<font face="Open Sans Semibold" size="73"><b>Oh
+(Let's go)</b></font>
+
+28
+00:01:27,064 --> 00:01:30,014
+<font face="Open Sans Semibold" size="73"><b>Oh, raise up your hands now.</b></font>
+
+29
+00:01:42,654 --> 00:01:45,064
+<font face="Open Sans Semibold" size="73"><b>Are you Mr. Fujiwara of Project D?</b></font>
+
+30
+00:01:47,614 --> 00:01:49,184
+<font face="Open Sans Semibold" size="73"><b>That's dishonest and horrible!</b></font>
+
+31
+00:02:11,664 --> 00:02:12,694
+<font face="Open Sans Semibold" size="73"><b>What happened?</b></font>
+
+32
+00:02:12,694 --> 00:02:14,364
+<font face="Open Sans Semibold" size="73"><b>Took the day off today.</b></font>
+
+33
+00:02:14,364 --> 00:02:16,604
+<font face="Open Sans Semibold" size="73"><b>I took another shift for someone else.</b></font>
+
+34
+00:02:16,604 --> 00:02:18,664
+<font face="Open Sans Semibold" size="73"><b>Comp time off, huh?</b></font>
+
+35
+00:02:18,664 --> 00:02:21,864
+<font face="Open Sans Semibold" size="73"><b>How did it go?
+You're done with Ibaraki, right?</b></font>
+
+36
+00:02:21,864 --> 00:02:23,314
+<font face="Open Sans Semibold" size="73"><b>Did you lose?</b></font>
+
+37
+00:02:23,314 --> 00:02:24,304
+<font face="Open Sans Semibold" size="73"><b>I won.</b></font>
+
+38
+00:02:24,304 --> 00:02:27,214
+<font face="Open Sans Semibold" size="73"><b>Then why do you look so gloomy?</b></font>
+
+39
+00:02:27,894 --> 00:02:30,014
+<font face="Open Sans Semibold" size="73"><b>It's about something else.</b></font>
+
+40
+00:02:34,024 --> 00:02:35,244
+<font face="Open Sans Semibold" size="73"><b>Who is this?</b></font>
+
+41
+00:02:36,414 --> 00:02:37,314
+<font face="Open Sans Semibold" size="73"><b>Hello?</b></font>
+
+42
+00:02:39,624 --> 00:02:43,704
+<font face="Open Sans Semibold" size="73"><b>Well, um... it's fine, but hold on.</b></font>
+
+43
+00:02:45,724 --> 00:02:46,774
+<font face="Open Sans Semibold" size="73"><b>What's the matter?</b></font>
+
+44
+00:02:46,774 --> 00:02:47,974
+<font face="Open Sans Semibold" size="73"><b>A girl?</b></font>
+
+45
+00:02:50,844 --> 00:02:51,814
+<font face="Open Sans Semibold" size="73"><b>Hello.</b></font>
+
+46
+00:02:52,464 --> 00:02:56,224
+<font face="Open Sans Semibold" size="73"><b>I'm sorry for calling you so suddenly.</b></font>
+
+47
+00:02:56,224 --> 00:03:00,614
+<font face="Open Sans Semibold" size="73"><b>I wanted to apologize to you earlier, but...</b></font>
+
+48
+00:03:01,864 --> 00:03:04,154
+<font face="Open Sans Semibold" size="73"><b>No, it's okay.</b></font>
+
+49
+00:03:04,154 --> 00:03:06,414
+<font face="Open Sans Semibold" size="73"><b>How did you get my number?</b></font>
+
+50
+00:03:07,304 --> 00:03:12,214
+<font face="Open Sans Semibold" size="73"><b>I looked up the number for the gas station,
+and when I called, an attendant gave me your number.</b></font>
+
+51
+00:03:13,224 --> 00:03:14,314
+<font face="Open Sans Semibold" size="73"><b>I see.</b></font>
+
+52
+00:03:15,164 --> 00:03:18,524
+<font face="Open Sans Semibold" size="73"><b>I'm so sorry for saying such awful things.</b></font>
+
+53
+00:03:18,524 --> 00:03:20,374
+<font face="Open Sans Semibold" size="73"><b>You must be mad at me.</b></font>
+
+54
+00:03:21,054 --> 00:03:25,014
+<font face="Open Sans Semibold" size="73"><b>No, I'm okay as long
+as you know it wasn't me.</b></font>
+
+55
+00:03:26,184 --> 00:03:33,264
+<font face="Open Sans Semibold" size="73"><b>I thought I should apologize
+in person instead of calling you.</b></font>
+
+56
+00:03:33,264 --> 00:03:38,394
+<font face="Open Sans Semibold" size="73"><b>but the days flew by before
+I could make time to come visit you.</b></font>
+
+57
+00:03:38,394 --> 00:03:40,014
+<font face="Open Sans Semibold" size="73"><b>I'm truly sorry.</b></font>
+
+58
+00:03:40,014 --> 00:03:41,924
+<font face="Open Sans Semibold" size="73"><b>I'll find time to visit you.</b></font>
+
+59
+00:03:43,564 --> 00:03:44,904
+<font face="Open Sans Semibold" size="73"><b>Well then.</b></font>
+
+60
+00:03:44,904 --> 00:03:48,614
+<font face="Open Sans Semibold" size="73"><b>Um, what about me coming there?</b></font>
+
+61
+00:03:49,264 --> 00:03:49,714
+<font face="Open Sans Semibold" size="73"><b>Eh?</b></font>
+
+62
+00:03:50,234 --> 00:03:54,454
+<font face="Open Sans Semibold" size="73"><b>That's if you're okay with it.</b></font>
+
+63
+00:03:54,454 --> 00:03:58,724
+<font face="Open Sans Semibold" size="73"><b>I don't mind driving
+to your neighborhood.</b></font>
+
+64
+00:04:00,104 --> 00:04:02,914
+<font face="Open Sans Semibold" size="73"><b>W-what am I saying?!</b></font>
+
+65
+00:04:04,474 --> 00:04:07,114
+<font face="Open Sans Semibold" size="73"><b>Are you sure, really?</b></font>
+
+66
+00:04:08,994 --> 00:04:10,194
+<font face="Open Sans Semibold" size="73"><b>Y-yeah.</b></font>
+
+67
+00:04:17,014 --> 00:04:21,714
+<font face="Open Sans Semibold" size="73"><b>Act 2  [ New Battlefield ]</b></font>
+
+68
+00:04:31,544 --> 00:04:33,824
+<font face="Open Sans Semibold" size="73"><b>Thank you for coming all this way.</b></font>
+
+69
+00:04:41,094 --> 00:04:49,764
+<font face="Open Sans Semibold" size="73"><b>To be honest, I was sort of relieved and glad when I realized that it wasn't you, after showing your picture to Tomoko.</b></font>
+
+70
+00:04:51,584 --> 00:04:56,214
+<font face="Open Sans Semibold" size="73"><b>When I saw you for the first time,
+you didn't look like a dishonest person.</b></font>
+
+71
+00:04:56,214 --> 00:04:59,364
+<font face="Open Sans Semibold" size="73"><b>But you went pretty far, didn't you?</b></font>
+
+72
+00:04:59,364 --> 00:05:02,814
+<font face="Open Sans Semibold" size="73"><b>I got carried away
+because I was so furious.</b></font>
+
+73
+00:05:03,914 --> 00:05:04,894
+<font face="Open Sans Semibold" size="73"><b>I'm really sorry.</b></font>
+
+74
+00:05:04,894 --> 00:05:08,664
+<font face="Open Sans Semibold" size="73"><b>It must have hurt because
+I work out in the club.</b></font>
+
+75
+00:05:09,464 --> 00:05:10,914
+<font face="Open Sans Semibold" size="73"><b>What do you do?</b></font>
+
+76
+00:05:11,464 --> 00:05:12,624
+<font face="Open Sans Semibold" size="73"><b>Golf.</b></font>
+
+77
+00:05:12,624 --> 00:05:14,814
+<font face="Open Sans Semibold" size="73"><b>I've been practicing since I was little.</b></font>
+
+78
+00:05:17,164 --> 00:05:22,814
+<font face="Open Sans Semibold" size="73"><b>I've got training camp and competitions, 
+so my summer break is packed with training.</b></font>
+
+79
+00:05:23,994 --> 00:05:27,184
+<font face="Open Sans Semibold" size="73"><b>So I couldn't come to Gunma.</b></font>
+
+80
+00:05:27,184 --> 00:05:29,014
+<font face="Open Sans Semibold" size="73"><b>I'm glad you came.</b></font>
+
+81
+00:05:29,764 --> 00:05:32,314
+<font face="Open Sans Semibold" size="73"><b>I took my father's suggestion
+and started to play golf.</b></font>
+
+82
+00:05:32,314 --> 00:05:34,014
+<font face="Open Sans Semibold" size="73"><b>If I skip training, he gets mad.</b></font>
+
+83
+00:05:36,634 --> 00:05:39,844
+<font face="Open Sans Semibold" size="73"><b>That sounds familiar.</b></font>
+
+84
+00:05:39,844 --> 00:05:44,714
+<font face="Open Sans Semibold" size="73"><b>I was forced to learn how to
+drive since I was in middle school.</b></font>
+
+85
+00:05:45,414 --> 00:05:52,154
+<font face="Open Sans Semibold" size="73"><b>I hated it before, and we butted heads a lot, but
+I eventually began to drive because I wanted to.</b></font>
+
+86
+00:05:53,764 --> 00:05:55,894
+<font face="Open Sans Semibold" size="73"><b>I understand what you're saying so well.</b></font>
+
+87
+00:05:55,894 --> 00:05:58,314
+<font face="Open Sans Semibold" size="73"><b>I argued with my dad all the time.</b></font>
+
+88
+00:05:59,234 --> 00:06:03,864
+<font face="Open Sans Semibold" size="73"><b>But now golf is a part of my daily life.</b></font>
+
+89
+00:06:03,864 --> 00:06:04,904
+<font face="Open Sans Semibold" size="73"><b>We're alike.</b></font>
+
+90
+00:06:10,514 --> 00:06:11,474
+<font face="Open Sans Semibold" size="73"><b>What the hell?!</b></font>
+
+91
+00:06:11,474 --> 00:06:13,564
+<font face="Open Sans Semibold" size="73"><b>You went to Saitama to see her today?!</b></font>
+
+92
+00:06:14,084 --> 00:06:17,264
+<font face="Open Sans Semibold" size="73"><b>And what did you talk about?</b></font>
+
+93
+00:06:17,264 --> 00:06:18,414
+<font face="Open Sans Semibold" size="73"><b>Nothing really.</b></font>
+
+94
+00:06:18,414 --> 00:06:21,164
+<font face="Open Sans Semibold" size="73"><b>We just had tea in a family
+restaurant for about an hour.</b></font>
+
+95
+00:06:21,914 --> 00:06:23,814
+<font face="Open Sans Semibold" size="73"><b>What's her name?</b></font>
+
+96
+00:06:23,814 --> 00:06:25,084
+<font face="Open Sans Semibold" size="73"><b>How old is she?</b></font>
+
+97
+00:06:25,084 --> 00:06:30,314
+<font face="Open Sans Semibold" size="73"><b>Her name is Uehara Mika, and she's a year 
+younger than us, so she's a senior in high school.</b></font>
+
+98
+00:06:30,314 --> 00:06:31,634
+<font face="Open Sans Semibold" size="73"><b>And what?</b></font>
+
+99
+00:06:31,634 --> 00:06:33,294
+<font face="Open Sans Semibold" size="73"><b>Is she taken?</b></font>
+
+100
+00:06:33,294 --> 00:06:34,424
+<font face="Open Sans Semibold" size="73"><b>Are you going to date her?</b></font>
+
+101
+00:06:34,424 --> 00:06:35,184
+<font face="Open Sans Semibold" size="73"><b>What?</b></font>
+
+102
+00:06:35,974 --> 00:06:38,454
+<font face="Open Sans Semibold" size="73"><b>We didn't talk about anything like that.</b></font>
+
+103
+00:06:38,454 --> 00:06:39,724
+<font face="Open Sans Semibold" size="73"><b>I'm not you.</b></font>
+
+104
+00:06:39,724 --> 00:06:40,974
+<font face="Open Sans Semibold" size="73"><b>Why not?</b></font>
+
+105
+00:06:40,974 --> 00:06:42,904
+<font face="Open Sans Semibold" size="73"><b>That's the most important part, isn't it?</b></font>
+
+106
+00:06:42,904 --> 00:06:48,014
+<font face="Open Sans Semibold" size="73"><b>We couldn't talk much in
+such a short period of time.</b></font>
+
+107
+00:06:48,014 --> 00:06:49,114
+<font face="Open Sans Semibold" size="73"><b>It was really short.</b></font>
+
+108
+00:06:50,754 --> 00:06:53,494
+<font face="Open Sans Semibold" size="73"><b>I'm gonna say this because it's you.</b></font>
+
+109
+00:06:53,494 --> 00:06:58,544
+<font face="Open Sans Semibold" size="73"><b>I think I fell in love with
+her the first time I saw her.</b></font>
+
+110
+00:07:00,274 --> 00:07:01,614
+<font face="Open Sans Semibold" size="73"><b>I wish I could say that!</b></font>
+
+111
+00:07:01,614 --> 00:07:03,044
+<font face="Open Sans Semibold" size="73"><b>I'm so envious!</b></font>
+
+112
+00:07:03,044 --> 00:07:05,864
+<font face="Open Sans Semibold" size="73"><b>I feel awkward.</b></font>
+
+113
+00:07:05,864 --> 00:07:09,264
+<font face="Open Sans Semibold" size="73"><b>I don't know what
+to do about this feeling.</b></font>
+
+114
+00:07:09,264 --> 00:07:10,504
+<font face="Open Sans Semibold" size="73"><b>I don't get it.</b></font>
+
+115
+00:07:11,264 --> 00:07:17,944
+<font face="Open Sans Semibold" size="73"><b>If you like her, you have to gather
+your courage and make a move.</b></font>
+
+116
+00:07:17,944 --> 00:07:22,214
+<font face="Open Sans Semibold" size="73"><b>But it could be one sided.</b></font>
+
+117
+00:07:22,214 --> 00:07:25,984
+<font face="Open Sans Semibold" size="73"><b>She doesn't necessarily feel the same way.</b></font>
+
+118
+00:07:25,984 --> 00:07:29,954
+<font face="Open Sans Semibold" size="73"><b>Sounds awfully timid for a driving genius.</b></font>
+
+119
+00:07:29,954 --> 00:07:32,114
+<font face="Open Sans Semibold" size="73"><b>That has nothing to do with this.</b></font>
+
+120
+00:07:33,064 --> 00:07:35,494
+<font face="Open Sans Semibold" size="73"><b>I'm not very confident.</b></font>
+
+121
+00:07:41,314 --> 00:07:46,314
+<font face="Open Sans Semibold" size="73"><b>We'll counter Project D with four
+carefully planned defensive lines.</b></font>
+
+122
+00:07:55,214 --> 00:07:59,364
+<font face="Open Sans Semibold" size="66"><b>{\an5}Sidewinder Chief Driver - Hojo Gou</b></font>
+
+123
+00:07:55,434 --> 00:08:01,514
+<font face="Open Sans Semibold" size="73"><b>As a prelude to the battles in Hakone, we'll watch how our opponents race on this mountain path.</b></font>
+
+124
+00:07:59,764 --> 00:08:03,414
+<font face="Open Sans Semibold" size="66"><b>{\an5}Sidewinder Chief Mechanic - Kubo Eiji</b></font>
+
+125
+00:08:03,764 --> 00:08:07,414
+<font face="Open Sans Semibold" size="66"><b>{\an5}Racing Team Katagiri Street Version - </b></font>
+
+126
+00:08:03,764 --> 00:08:07,414
+<font face="Open Sans Semibold" size="66"><b>{\an5}Minagawa Hideo</b></font>
+
+127
+00:08:07,714 --> 00:08:11,414
+<font face="Open Sans Semibold" size="66"><b>{\an5}Team Spiral Leader - Ikeda Ryuji (Zero)</b></font>
+
+128
+00:08:11,774 --> 00:08:17,314
+<font face="Open Sans Semibold" size="73"><b>We'll assemble a data collection team
+and completely expose their strategy.</b></font>
+
+129
+00:08:17,314 --> 00:08:20,414
+<font face="Open Sans Semibold" size="73"><b>Let us take care of that.</b></font>
+
+130
+00:08:21,364 --> 00:08:25,944
+<font face="Open Sans Semibold" size="73"><b>"If you know the enemy and know yourself,
+you need not fear the result of a hundred battles."</b></font>
+
+131
+00:08:25,944 --> 00:08:29,024
+<font face="Open Sans Semibold" size="73"><b>Information and data is
+everything in today's racing.</b></font>
+
+132
+00:08:29,894 --> 00:08:33,364
+<font face="Open Sans Semibold" size="73"><b>Do we really have to go that far?</b></font>
+
+133
+00:08:33,364 --> 00:08:40,064
+<font face="Open Sans Semibold" size="73"><b>I don't think our opponent is good enough for the
+best three in Kanagawa to sneak around like this.</b></font>
+
+134
+00:08:40,664 --> 00:08:44,614
+<font face="Open Sans Semibold" size="73"><b>In any case, I'll settle this during my turn.</b></font>
+
+135
+00:08:45,204 --> 00:08:48,014
+<font face="Open Sans Semibold" size="73"><b>Sorry, but you guys won't
+have a chance to compete.</b></font>
+
+136
+00:08:48,794 --> 00:08:50,624
+<font face="Open Sans Semibold" size="73"><b>You sound quite confident.</b></font>
+
+137
+00:08:50,624 --> 00:08:54,234
+<font face="Open Sans Semibold" size="73"><b>Alright, I look forward to it, then.</b></font>
+
+138
+00:08:58,114 --> 00:09:04,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}Team 246 Leader - Satoshi Omiya</b></font>
+
+139
+00:08:58,474 --> 00:09:04,014
+<font face="Open Sans Semibold" size="73"><b>That's quite an indirect and
+hesitant strategy, isn't it?</b></font>
+
+140
+00:09:04,314 --> 00:09:09,464
+<font face="Open Sans Semibold" size="66"><b>{\an5}Team 246 Driver - Kobayakawa</b></font>
+
+141
+00:09:04,564 --> 00:09:06,694
+<font face="Open Sans Semibold" size="73"><b>I don't like that sequence.</b></font>
+
+142
+00:09:06,694 --> 00:09:11,814
+<font face="Open Sans Semibold" size="73"><b>Sounds like the first team,
+which is us, shouldn't win.</b></font>
+
+143
+00:09:13,564 --> 00:09:18,264
+<font face="Open Sans Semibold" size="73"><b>So, should we deliberately lose and
+ let the next team take the credit?</b></font>
+
+144
+00:09:18,914 --> 00:09:21,274
+<font face="Open Sans Semibold" size="73"><b>Oh, please.</b></font>
+
+145
+00:09:21,274 --> 00:09:24,614
+<font face="Open Sans Semibold" size="73"><b>A fair and square win is the best.</b></font>
+
+146
+00:09:24,614 --> 00:09:28,014
+<font face="Open Sans Semibold" size="73"><b>I'm pissed at those Sidewinder guys, too.</b></font>
+
+147
+00:09:28,014 --> 00:09:31,114
+<font face="Open Sans Semibold" size="73"><b>We didn't ask them to manage this.</b></font>
+
+148
+00:09:31,114 --> 00:09:34,514
+<font face="Open Sans Semibold" size="73"><b>We have no reason
+to hold back for them.</b></font>
+
+149
+00:09:35,364 --> 00:09:37,814
+<font face="Open Sans Semibold" size="73"><b>Show the true potential of 246.</b></font>
+
+150
+00:09:50,434 --> 00:09:51,904
+<font face="Open Sans Semibold" size="73"><b>Amazing.</b></font>
+
+151
+00:09:51,904 --> 00:09:54,414
+<font face="Open Sans Semibold" size="73"><b>She hits great distances without slicing.</b></font>
+
+152
+00:09:55,924 --> 00:09:57,504
+<font face="Open Sans Semibold" size="73"><b>What happened, Mika?</b></font>
+
+153
+00:10:06,304 --> 00:10:08,984
+<font face="Open Sans Semibold" size="73"><b>I wonder what Takumi is doing now.</b></font>
+
+154
+00:10:10,994 --> 00:10:13,014
+<font face="Open Sans Semibold" size="73"><b>Hey, Fujiwara, don't just space out.</b></font>
+
+155
+00:10:13,724 --> 00:10:15,184
+<font face="Open Sans Semibold" size="73"><b>Oh, I'm sorry.</b></font>
+
+156
+00:10:19,194 --> 00:10:20,754
+<font face="Open Sans Semibold" size="73"><b>Big news, Iketani!</b></font>
+
+157
+00:10:20,754 --> 00:10:22,114
+<font face="Open Sans Semibold" size="73"><b>Check this out!</b></font>
+
+158
+00:10:22,814 --> 00:10:25,014
+<font face="Open Sans Semibold" size="66"><b>{\an5}GOLF</b></font>
+
+159
+00:10:23,114 --> 00:10:24,094
+<font face="Open Sans Semibold" size="73"><b>What?</b></font>
+
+160
+00:10:24,094 --> 00:10:25,574
+<font face="Open Sans Semibold" size="73"><b>A golf magazine?</b></font>
+
+161
+00:10:25,574 --> 00:10:27,994
+<font face="Open Sans Semibold" size="73"><b>Here, take a look inside.</b></font>
+
+162
+00:10:30,014 --> 00:10:31,454
+<font face="Open Sans Semibold" size="73"><b>That's her, right?</b></font>
+
+163
+00:10:31,964 --> 00:10:34,694
+<font face="Open Sans Semibold" size="73"><b>"A new star in women's golf"</b></font>
+
+164
+00:10:34,694 --> 00:10:38,454
+<font face="Open Sans Semibold" size="73"><b>"Uehara Mika, seventeen years old"?!</b></font>
+
+165
+00:10:38,454 --> 00:10:41,364
+<font face="Open Sans Semibold" size="73"><b>This is the girl who slapped Takumi?</b></font>
+
+166
+00:10:41,364 --> 00:10:43,184
+<font face="Open Sans Semibold" size="73"><b>I'm absolutely positive.</b></font>
+
+167
+00:10:43,184 --> 00:10:45,064
+<font face="Open Sans Semibold" size="73"><b>She looked exactly like this.</b></font>
+
+168
+00:10:45,064 --> 00:10:50,344
+<font face="Open Sans Semibold" size="73"><b>Man, if I'd known she was famous,
+I would've asked for her autograph.</b></font>
+
+169
+00:10:50,344 --> 00:10:54,664
+<font face="Open Sans Semibold" size="73"><b>A golf genius who hits
+a white ball in the daylight</b></font>
+
+170
+00:10:54,664 --> 00:10:57,114
+<font face="Open Sans Semibold" size="73"><b>and a driving genius who
+tackles the roads at night.</b></font>
+
+171
+00:10:59,314 --> 00:11:03,664
+<font face="Open Sans Semibold" size="73"><b>Those are polar opposites, aren't they?</b></font>
+
+172
+00:11:03,664 --> 00:11:06,364
+<font face="Open Sans Semibold" size="73"><b>I wonder if this romance
+will develop any further.</b></font>
+
+173
+00:11:16,114 --> 00:11:18,724
+<font face="Open Sans Semibold" size="73"><b>This is downhill checkpoint 3.</b></font>
+
+174
+00:11:18,724 --> 00:11:20,214
+<font face="Open Sans Semibold" size="73"><b>The Eight-Six just passed by.</b></font>
+
+175
+00:11:28,874 --> 00:11:32,014
+<font face="Open Sans Semibold" size="73"><b>The FD just passed
+hill climb checkpoint 7.</b></font>
+
+176
+00:11:41,234 --> 00:11:43,074
+<font face="Open Sans Semibold" size="73"><b>How many years?</b></font>
+
+177
+00:11:43,074 --> 00:11:46,284
+<font face="Open Sans Semibold" size="73"><b>It's been a long time,
+hasn't it, Takahashi Ryosuke?</b></font>
+
+178
+00:11:55,384 --> 00:11:58,644
+<font face="Open Sans Semibold" size="73"><b>You seem to be having a hard time
+because of the power increase.</b></font>
+
+179
+00:11:58,644 --> 00:12:00,314
+<font face="Open Sans Semibold" size="73"><b>It can't be helped.</b></font>
+
+180
+00:12:00,314 --> 00:12:03,004
+<font face="Open Sans Semibold" size="73"><b>After all, hill climbing is a power game.</b></font>
+
+181
+00:12:03,004 --> 00:12:05,114
+<font face="Open Sans Semibold" size="73"><b>I have something else that worries me.</b></font>
+
+182
+00:12:06,764 --> 00:12:10,774
+<font face="Open Sans Semibold" size="73"><b>I saw some guys with stopwatches
+scattered throughout the course.</b></font>
+
+183
+00:12:10,774 --> 00:12:13,174
+<font face="Open Sans Semibold" size="73"><b>Are they timing you?</b></font>
+
+184
+00:12:14,004 --> 00:12:15,764
+<font face="Open Sans Semibold" size="73"><b>Probably.</b></font>
+
+185
+00:12:15,764 --> 00:12:18,314
+<font face="Open Sans Semibold" size="73"><b>I think it's pointless to check our times.</b></font>
+
+186
+00:12:19,424 --> 00:12:24,014
+<font face="Open Sans Semibold" size="73"><b>We're still setting up our cars, and
+we haven't mastered the course yet.</b></font>
+
+187
+00:12:24,014 --> 00:12:26,864
+<font face="Open Sans Semibold" size="73"><b>The speeds will be totally
+different during the actual race.</b></font>
+
+188
+00:12:26,864 --> 00:12:30,314
+<font face="Open Sans Semibold" size="73"><b>But it bothers me that they're
+checking our times every so often.</b></font>
+
+189
+00:12:32,014 --> 00:12:33,014
+<font face="Open Sans Semibold" size="73"><b>Okay.</b></font>
+
+190
+00:12:33,014 --> 00:12:34,584
+<font face="Open Sans Semibold" size="73"><b>It's ready to go, Keisuke.</b></font>
+
+191
+00:12:35,214 --> 00:12:35,764
+<font face="Open Sans Semibold" size="73"><b>Okay.</b></font>
+
+192
+00:12:47,114 --> 00:12:50,214
+<font face="Open Sans Semibold" size="73"><b>Fujiwara seems to be in
+good condition as usual.</b></font>
+
+193
+00:12:51,564 --> 00:12:55,514
+<font face="Open Sans Semibold" size="73"><b>He appears to enjoy challenging
+difficult courses like this.</b></font>
+
+194
+00:12:55,514 --> 00:13:00,664
+<font face="Open Sans Semibold" size="73"><b>The car is tricky to drive in every
+aspect, but he says it's easy.</b></font>
+
+195
+00:13:01,414 --> 00:13:04,524
+<font face="Open Sans Semibold" size="73"><b>It makes me wonder if he's an alien.</b></font>
+
+196
+00:13:06,604 --> 00:13:08,924
+<font face="Open Sans Semibold" size="73"><b>Is this okay, Ryosuke?</b></font>
+
+197
+00:13:08,924 --> 00:13:14,544
+<font face="Open Sans Semibold" size="73"><b>I'm sure an organized data collection
+team is all over the course.</b></font>
+
+198
+00:13:16,444 --> 00:13:19,414
+<font face="Open Sans Semibold" size="73"><b>Our cars pace will pick up in the later half.</b></font>
+
+199
+00:13:19,414 --> 00:13:25,054
+<font face="Open Sans Semibold" size="73"><b>Anyone with a trained eye will be able to accurately measure our potential.</b></font>
+
+200
+00:13:25,054 --> 00:13:26,804
+<font face="Open Sans Semibold" size="73"><b>Probably so.</b></font>
+
+201
+00:13:26,804 --> 00:13:29,984
+<font face="Open Sans Semibold" size="73"><b>Shouldn't we think about using
+some kind of camouflage?</b></font>
+
+202
+00:13:29,984 --> 00:13:33,024
+<font face="Open Sans Semibold" size="73"><b>No, I'd rather not use any cheap tricks.</b></font>
+
+203
+00:13:33,024 --> 00:13:35,914
+<font face="Open Sans Semibold" size="73"><b>If they want data, they can
+have it, for today that is.</b></font>
+
+204
+00:13:37,664 --> 00:13:39,804
+<font face="Open Sans Semibold" size="73"><b>Don't worry, Fumihiro.</b></font>
+
+205
+00:13:39,804 --> 00:13:42,694
+<font face="Open Sans Semibold" size="73"><b>I made my decision after careful thinking.</b></font>
+
+206
+00:13:42,694 --> 00:13:49,304
+<font face="Open Sans Semibold" size="73"><b>One thing I can say is that the people
+collecting data aren't our next opponents.</b></font>
+
+207
+00:13:50,374 --> 00:13:51,494
+<font face="Open Sans Semibold" size="73"><b>Is that so?</b></font>
+
+208
+00:13:52,144 --> 00:13:53,634
+<font face="Open Sans Semibold" size="73"><b>Think about it.</b></font>
+
+209
+00:13:53,634 --> 00:13:54,814
+<font face="Open Sans Semibold" size="73"><b>The battle is tomorrow.</b></font>
+
+210
+00:13:56,014 --> 00:13:59,414
+<font face="Open Sans Semibold" size="73"><b>There's no time to set up
+a car based on today's data.</b></font>
+
+211
+00:14:00,084 --> 00:14:02,154
+<font face="Open Sans Semibold" size="73"><b>You're right.</b></font>
+
+212
+00:14:02,154 --> 00:14:05,094
+<font face="Open Sans Semibold" size="73"><b>They must be an opponent
+we're racing against much later.</b></font>
+
+213
+00:14:05,094 --> 00:14:09,414
+<font face="Open Sans Semibold" size="73"><b>If so, we still have time.</b></font>
+
+214
+00:14:09,414 --> 00:14:12,624
+<font face="Open Sans Semibold" size="73"><b>We must focus on the opponent before us.</b></font>
+
+215
+00:14:22,564 --> 00:14:25,664
+<font face="Open Sans Semibold" size="73"><b>The first half is a series of steep uphill slopes.</b></font>
+
+216
+00:14:25,664 --> 00:14:28,234
+<font face="Open Sans Semibold" size="73"><b>The second half is a continuous mild slope.</b></font>
+
+217
+00:14:28,234 --> 00:14:31,014
+<font face="Open Sans Semibold" size="73"><b>Well, that's from the
+hill-climbing perspective, so...</b></font>
+
+218
+00:14:31,014 --> 00:14:33,004
+<font face="Open Sans Semibold" size="73"><b>It's the opposite on the downhill.</b></font>
+
+219
+00:14:33,004 --> 00:14:34,314
+<font face="Open Sans Semibold" size="73"><b>Yeah.</b></font>
+
+220
+00:14:34,314 --> 00:14:37,454
+<font face="Open Sans Semibold" size="73"><b>But whether it's a hill-climb or downhill</b></font>
+
+221
+00:14:37,454 --> 00:14:42,564
+<font face="Open Sans Semibold" size="73"><b>the key to this course are the parts
+ where the road width suddenly changes.</b></font>
+
+222
+00:14:44,564 --> 00:14:50,414
+<font face="Open Sans Semibold" size="73"><b>There are many places where two lanes change into one throughout the course.</b></font>
+
+223
+00:14:53,294 --> 00:14:56,764
+<font face="Open Sans Semibold" size="73"><b>Those will be important overtaking points.</b></font>
+
+224
+00:14:57,494 --> 00:14:58,924
+<font face="Open Sans Semibold" size="73"><b>You're right.</b></font>
+
+225
+00:14:58,924 --> 00:15:03,254
+<font face="Open Sans Semibold" size="73"><b>I know that in my head</b></font>
+
+226
+00:15:03,254 --> 00:15:11,184
+<font face="Open Sans Semibold" size="73"><b>but the locals must know how to benefit from it, and they won't drive on the unfavorable side.</b></font>
+
+227
+00:15:11,784 --> 00:15:15,214
+<font face="Open Sans Semibold" size="73"><b>And if you aim for it, 
+you might fall into a trap.</b></font>
+
+228
+00:15:23,194 --> 00:15:26,824
+<font face="Open Sans Semibold" size="73"><b>Oh man, a Lan Evo again</b></font>
+
+229
+00:15:26,824 --> 00:15:30,194
+<font face="Open Sans Semibold" size="73"><b>How come my opponents always
+seem to be driving 4WD cars?</b></font>
+
+230
+00:15:30,194 --> 00:15:31,694
+<font face="Open Sans Semibold" size="73"><b>I've had enough.</b></font>
+
+231
+00:15:31,694 --> 00:15:35,474
+<font face="Open Sans Semibold" size="73"><b>Why don't you claim to 
+be Akagi's Lan Evo killer?</b></font>
+
+232
+00:15:35,474 --> 00:15:37,574
+<font face="Open Sans Semibold" size="73"><b>That doesn't even make a good joke.</b></font>
+
+233
+00:15:37,574 --> 00:15:40,014
+<font face="Open Sans Semibold" size="73"><b>You can say that,
+because you aren't driving.</b></font>
+
+234
+00:15:41,514 --> 00:15:46,554
+<font face="Open Sans Semibold" size="73"><b>Frankly speaking, it's the car I hate to compete against the most on the mountain passes now.</b></font>
+
+235
+00:15:46,554 --> 00:15:48,814
+<font face="Open Sans Semibold" size="73"><b>Because it's absurdly fast.</b></font>
+
+236
+00:15:52,444 --> 00:15:56,604
+<font face="Open Sans Semibold" size="73"><b>They gave us the choice of
+being the leader or the pursuer.</b></font>
+
+237
+00:15:56,604 --> 00:15:58,474
+<font face="Open Sans Semibold" size="73"><b>Which do you want, Kobayakawa?</b></font>
+
+238
+00:15:58,474 --> 00:16:04,764
+<font face="Open Sans Semibold" size="73"><b>I can be either, but I want to take
+a close look at my opponent.</b></font>
+
+239
+00:16:04,764 --> 00:16:08,764
+<font face="Open Sans Semibold" size="73"><b>I don't think I'll be outrun by a 2WD car</b></font>
+
+240
+00:16:08,764 --> 00:16:13,014
+<font face="Open Sans Semibold" size="73"><b>so the first race will be for recon,
+and the second will be the real match.</b></font>
+
+241
+00:16:13,014 --> 00:16:14,714
+<font face="Open Sans Semibold" size="73"><b>Okay, we'll go with that, then.</b></font>
+
+242
+00:16:20,824 --> 00:16:21,714
+<font face="Open Sans Semibold" size="73"><b>I'm Kobayakawa.</b></font>
+
+243
+00:16:22,664 --> 00:16:23,714
+<font face="Open Sans Semibold" size="73"><b>I'm Takahashi Keisuke.</b></font>
+
+244
+00:16:39,074 --> 00:16:43,664
+<font face="Open Sans Semibold" size="73"><b>Since you're the leader, you know what to do without being told, don't you?</b></font>
+
+245
+00:16:44,304 --> 00:16:45,824
+<font face="Open Sans Semibold" size="73"><b>I know.</b></font>
+
+246
+00:16:45,824 --> 00:16:49,644
+<font face="Open Sans Semibold" size="73"><b>Half of my job was finished yesterday.</b></font>
+
+247
+00:16:50,784 --> 00:16:53,344
+<font face="Open Sans Semibold" size="73"><b>That's what you wanted
+to say, right, Brother?</b></font>
+
+248
+00:16:53,344 --> 00:16:54,714
+<font face="Open Sans Semibold" size="73"><b>Correct.</b></font>
+
+249
+00:16:55,714 --> 00:16:56,814
+<font face="Open Sans Semibold" size="73"><b>I'm counting on you.</b></font>
+
+250
+00:17:00,444 --> 00:17:01,714
+<font face="Open Sans Semibold" size="73"><b>I'm going to count down!</b></font>
+
+251
+00:17:02,344 --> 00:17:03,364
+<font face="Open Sans Semibold" size="73"><b>Five</b></font>
+
+252
+00:17:03,364 --> 00:17:04,264
+<font face="Open Sans Semibold" size="73"><b>Four</b></font>
+
+253
+00:17:04,264 --> 00:17:05,344
+<font face="Open Sans Semibold" size="73"><b>Three</b></font>
+
+254
+00:17:05,344 --> 00:17:06,294
+<font face="Open Sans Semibold" size="73"><b>Two</b></font>
+
+255
+00:17:06,294 --> 00:17:07,344
+<font face="Open Sans Semibold" size="73"><b>One</b></font>
+
+256
+00:17:07,344 --> 00:17:08,314
+<font face="Open Sans Semibold" size="73"><b>Go!</b></font>
+
+257
+00:17:24,944 --> 00:17:29,114
+<font face="Open Sans Semibold" size="73"><b>Give me your best prediction
+on how this battle will unfold.</b></font>
+
+258
+00:17:30,664 --> 00:17:32,854
+<font face="Open Sans Semibold" size="73"><b>Best prediction?</b></font>
+
+259
+00:17:32,854 --> 00:17:35,064
+<font face="Open Sans Semibold" size="73"><b>That's tough at the moment.</b></font>
+
+260
+00:17:38,204 --> 00:17:39,814
+<font face="Open Sans Semibold" size="73"><b>He's got power.</b></font>
+
+261
+00:17:39,814 --> 00:17:40,914
+<font face="Open Sans Semibold" size="73"><b>Footwork's good, too.</b></font>
+
+262
+00:17:43,414 --> 00:17:48,614
+<font face="Open Sans Semibold" size="73"><b>But the road will soon
+become steep and rough.</b></font>
+
+263
+00:17:49,874 --> 00:17:52,054
+<font face="Open Sans Semibold" size="73"><b>I'm curious as to how he'll handle it.</b></font>
+
+264
+00:17:56,344 --> 00:17:59,104
+<font face="Open Sans Semibold" size="73"><b>I know you don't have enough data.</b></font>
+
+265
+00:17:59,104 --> 00:18:02,494
+<font face="Open Sans Semibold" size="73"><b>That's why I said "prediction."</b></font>
+
+266
+00:18:02,494 --> 00:18:06,914
+<font face="Open Sans Semibold" size="73"><b>Once you have data, you're
+correct 100% of the time.</b></font>
+
+267
+00:18:12,014 --> 00:18:15,204
+<font face="Open Sans Semibold" size="73"><b>The road suddenly widens here, but it'll narrow soon.</b></font>
+
+268
+00:18:16,594 --> 00:18:19,524
+<font face="Open Sans Semibold" size="73"><b>Well then, let me give you my prediction.</b></font>
+
+269
+00:18:20,854 --> 00:18:22,614
+<font face="Open Sans Semibold" size="73"><b>Just a prediction, okay?</b></font>
+
+270
+00:18:25,754 --> 00:18:27,574
+<font face="Open Sans Semibold" size="73"><b>This is my prediction.</b></font>
+
+271
+00:18:30,144 --> 00:18:31,774
+<font face="Open Sans Semibold" size="73"><b>Amazing.</b></font>
+
+272
+00:18:31,774 --> 00:18:36,014
+<font face="Open Sans Semibold" size="73"><b>It's rare to see a rear-wheel-drive
+car climbing the hill so sharply.</b></font>
+
+273
+00:18:37,164 --> 00:18:39,574
+<font face="Open Sans Semibold" size="73"><b>But something's not right.</b></font>
+
+274
+00:18:40,404 --> 00:18:43,724
+<font face="Open Sans Semibold" size="73"><b>I don't like the fact that the
+car's behaving as it should.</b></font>
+
+275
+00:18:43,724 --> 00:18:46,324
+<font face="Open Sans Semibold" size="73"><b>I don't feel any "plus factors."</b></font>
+
+276
+00:18:47,314 --> 00:18:50,114
+<font face="Open Sans Semibold" size="73"><b>The driver's presence is too weak.</b></font>
+
+277
+00:18:52,414 --> 00:18:57,174
+<font face="Open Sans Semibold" size="73"><b>You're a fast driver, but still,
+you're boring, Takahashi Keisuke.</b></font>
+
+278
+00:19:02,114 --> 00:19:06,454
+<font face="Open Sans Semibold" size="73"><b>Omiya, what do you think
+about Kobayakawa's decision?</b></font>
+
+279
+00:19:06,454 --> 00:19:10,344
+<font face="Open Sans Semibold" size="73"><b>I think his choice to be the 
+pursuer for the first run is correct.</b></font>
+
+280
+00:19:10,344 --> 00:19:12,874
+<font face="Open Sans Semibold" size="73"><b>Also, the road is very narrow.</b></font>
+
+281
+00:19:12,874 --> 00:19:17,094
+<font face="Open Sans Semibold" size="73"><b>I don't see any disadvantage for
+Kobayakawa, even if the race drags on.</b></font>
+
+282
+00:19:17,094 --> 00:19:23,764
+<font face="Open Sans Semibold" size="73"><b>If he can figure out what makes him faster
+and slower than his opponent in the first run</b></font>
+
+283
+00:19:23,764 --> 00:19:26,414
+<font face="Open Sans Semibold" size="73"><b>he can make a bold decisive
+maneuver in the second run.</b></font>
+
+284
+00:19:37,514 --> 00:19:40,634
+<font face="Open Sans Semibold" size="73"><b>Are you going to use the
+same strategy, Omiya?</b></font>
+
+285
+00:19:40,634 --> 00:19:42,364
+<font face="Open Sans Semibold" size="73"><b>I don't know.</b></font>
+
+286
+00:19:42,364 --> 00:19:46,184
+<font face="Open Sans Semibold" size="73"><b>I'll think about it after seeing
+the results of the hill climb.</b></font>
+
+287
+00:19:46,844 --> 00:19:48,454
+<font face="Open Sans Semibold" size="73"><b>Results?</b></font>
+
+288
+00:19:48,454 --> 00:19:50,874
+<font face="Open Sans Semibold" size="73"><b>But Kobayakawa has an
+absolute advantage, right?</b></font>
+
+289
+00:19:50,874 --> 00:19:52,864
+<font face="Open Sans Semibold" size="73"><b>His opponent is an FD.</b></font>
+
+290
+00:19:52,864 --> 00:19:56,704
+<font face="Open Sans Semibold" size="73"><b>I don't like it when I have
+an absolute advantage.</b></font>
+
+291
+00:19:56,704 --> 00:19:59,664
+<font face="Open Sans Semibold" size="73"><b>You never know until it's over.</b></font>
+
+292
+00:20:02,404 --> 00:20:04,154
+<font face="Open Sans Semibold" size="73"><b>He's good.</b></font>
+
+293
+00:20:04,154 --> 00:20:07,714
+<font face="Open Sans Semibold" size="73"><b>He doesn't show any wasteful 
+wheel spin even on this rough surface.</b></font>
+
+294
+00:20:14,724 --> 00:20:19,024
+<font face="Open Sans Semibold" size="73"><b>Your perfectionism comes through loud and clear.</b></font>
+
+295
+00:20:19,024 --> 00:20:22,714
+<font face="Open Sans Semibold" size="73"><b>But your "doing your job right"
+gets on my nerves.</b></font>
+
+296
+00:20:25,644 --> 00:20:26,764
+<font face="Open Sans Semibold" size="73"><b>I got it.</b></font>
+
+297
+00:20:26,764 --> 00:20:28,624
+<font face="Open Sans Semibold" size="73"><b>This's enough.</b></font>
+
+298
+00:20:28,624 --> 00:20:32,614
+<font face="Open Sans Semibold" size="73"><b>It's not like your team has
+outrageously skilled drivers.</b></font>
+
+299
+00:20:39,474 --> 00:20:46,594
+<font face="Open Sans Semibold" size="73"><b>Lately, the conversations between you and Keisuke have the tendency to sound like Buddhist riddles.</b></font>
+
+300
+00:20:46,594 --> 00:20:52,614
+<font face="Open Sans Semibold" size="73"><b>I don't understand what I'm hearing from
+your side, like your advice before the start.</b></font>
+
+301
+00:20:52,614 --> 00:20:58,114
+<font face="Open Sans Semibold" size="73"><b>What did Keisuke mean when he said
+half of his job was finished yesterday?</b></font>
+
+302
+00:20:59,764 --> 00:21:01,474
+<font face="Open Sans Semibold" size="73"><b>Oh, it's nothing.</b></font>
+
+303
+00:21:01,474 --> 00:21:04,114
+<font face="Open Sans Semibold" size="73"><b>It doesn't have any complicated meaning.</b></font>
+
+304
+00:21:04,114 --> 00:21:08,754
+<font face="Open Sans Semibold" size="73"><b>If you live with someone under the same roof, you can communicate without saying much.</b></font>
+
+305
+00:21:13,544 --> 00:21:18,414
+<font face="Open Sans Semibold" size="73"><b>In principle, we've agreed to finish the race
+quickly whenever we start in the lead position.</b></font>
+
+306
+00:21:19,584 --> 00:21:26,714
+<font face="Open Sans Semibold" size="73"><b>The first half of this course is made of steep hills, so he
+must preserve his tires while the FD is at a disadvantage.</b></font>
+
+307
+00:21:27,704 --> 00:21:34,144
+<font face="Open Sans Semibold" size="73"><b>Then he can execute a super attack by making the best use
+ of his tires in several high-speed sections on the second half.</b></font>
+
+308
+00:21:35,514 --> 00:21:37,284
+<font face="Open Sans Semibold" size="73"><b>Halfway there.</b></font>
+
+309
+00:21:37,284 --> 00:21:40,114
+<font face="Open Sans Semibold" size="73"><b>The slope will be milder
+compared to the first half.</b></font>
+
+310
+00:21:40,114 --> 00:21:41,414
+<font face="Open Sans Semibold" size="73"><b>He'll make a move somewhere.</b></font>
+
+311
+00:21:41,414 --> 00:21:42,314
+<font face="Open Sans Semibold" size="73"><b>Where will it be?</b></font>
+
+312
+00:21:43,464 --> 00:21:47,744
+<font face="Open Sans Semibold" size="73"><b>It's the kind of simple and easy strategy that Keisuke would prefer, right?</b></font>
+
+313
+00:21:47,744 --> 00:21:52,514
+<font face="Open Sans Semibold" size="73"><b>It's obvious he'll lose his edge if he
+challenges the Lan Evo to a long race.</b></font>
+
+314
+00:21:53,814 --> 00:21:58,354
+<font face="Open Sans Semibold" size="73"><b>The key to victory is how much
+more Keisuke can raise his top speed.</b></font>
+
+315
+00:22:00,644 --> 00:22:05,494
+<font face="Open Sans Semibold" size="73"><b>That's what he meant when he said half of his job was finished during yesterday's practice.</b></font>
+
+316
+00:22:09,434 --> 00:22:11,724
+<font face="Open Sans Semibold" size="73"><b>Where, dammit?</b></font>
+
+317
+00:22:11,724 --> 00:22:13,364
+<font face="Open Sans Semibold" size="73"><b>Where are you going
+to make your move?</b></font>
+
+318
+00:22:16,684 --> 00:22:18,784
+<font face="Open Sans Semibold" size="73"><b>I know your strategy.</b></font>
+
+319
+00:22:18,784 --> 00:22:21,894
+<font face="Open Sans Semibold" size="73"><b>When it comes to rapid acceleration, the Evo won't lose to any other car.</b></font>
+
+320
+00:22:22,514 --> 00:22:25,114
+<font face="Open Sans Semibold" size="73"><b>The rest is a matter of concentration.</b></font>
+
+321
+00:22:27,364 --> 00:22:29,944
+<font face="Open Sans Semibold" size="73"><b>It's a match of concentration.</b></font>
+
+322
+00:22:29,944 --> 00:22:32,504
+<font face="Open Sans Semibold" size="73"><b>One small mistake will cost you the match.</b></font>
+
+323
+00:22:35,294 --> 00:22:37,474
+<font face="Open Sans Semibold" size="73"><b>The road's going to widen starting here.</b></font>
+
+324
+00:22:37,474 --> 00:22:39,264
+<font face="Open Sans Semibold" size="73"><b>It must be around here.</b></font>
+
+325
+00:22:39,264 --> 00:22:40,814
+<font face="Open Sans Semibold" size="73"><b>Here?</b></font>
+
+326
+00:22:40,814 --> 00:22:41,664
+<font face="Open Sans Semibold" size="73"><b>Should I try?</b></font>
+
+327
+00:22:43,014 --> 00:22:47,724
+<font face="Open Sans Semibold" size="73"><b>Evo and Imp drivers 
+religiously believe in an idea.</b></font>
+
+328
+00:22:50,014 --> 00:22:55,144
+<font face="Open Sans Semibold" size="73"><b>That cars developed for rallying must
+be the best on the public streets.</b></font>
+
+329
+00:22:59,394 --> 00:23:00,464
+<font face="Open Sans Semibold" size="73"><b>Last spurt yet?</b></font>
+
+330
+00:23:02,204 --> 00:23:03,334
+<font face="Open Sans Semibold" size="73"><b>No, he hasn't.</b></font>
+
+331
+00:23:03,334 --> 00:23:04,394
+<font face="Open Sans Semibold" size="73"><b>Not yet.</b></font>
+
+332
+00:23:04,394 --> 00:23:05,664
+<font face="Open Sans Semibold" size="73"><b>Not here.</b></font>
+
+333
+00:23:05,664 --> 00:23:06,664
+<font face="Open Sans Semibold" size="73"><b>Maybe the next?</b></font>
+
+334
+00:23:07,724 --> 00:23:09,174
+<font face="Open Sans Semibold" size="73"><b>Where is it, dammit?</b></font>
+
+335
+00:23:11,504 --> 00:23:17,164
+<font face="Open Sans Semibold" size="73"><b>But rallies were originally
+done in snow or on dirt.</b></font>
+
+336
+00:23:17,164 --> 00:23:22,634
+<font face="Open Sans Semibold" size="73"><b>4WDs aren't necessarily
+unbeatable on dry asphalt.</b></font>
+
+337
+00:23:23,814 --> 00:23:26,084
+<font face="Open Sans Semibold" size="73"><b>That's why I predict</b></font>
+
+338
+00:23:27,084 --> 00:23:30,614
+<font face="Open Sans Semibold" size="73"><b>this race will be decided
+uneventfully in the first run.</b></font>
+
+339
+00:23:33,664 --> 00:23:37,414
+<font face="Open Sans Semibold" size="73"><b>The road just got narrower,
+and the visibility is poor.</b></font>
+
+340
+00:23:37,414 --> 00:23:38,614
+<font face="Open Sans Semibold" size="73"><b>You won't be able to keep this pace up.</b></font>
+
+341
+00:23:40,914 --> 00:23:47,414
+<font face="Open Sans Semibold" size="73"><b>Just before the goal, about 2 to 3 minutes in 
+terms of time, his concentration will reach its peak.</b></font>
+
+342
+00:23:47,414 --> 00:23:53,064
+<font face="Open Sans Semibold" size="73"><b>If our opponent can keep up with
+Keisuke's top speed, Keisuke will lose.</b></font>
+
+343
+00:23:55,454 --> 00:23:56,614
+<font face="Open Sans Semibold" size="73"><b>The winner will be...</b></font>
+
+344
+00:24:07,014 --> 00:24:08,084
+<font face="Open Sans Semibold" size="73"><b>You won't get away!</b></font>
+
+345
+00:24:08,514 --> 00:24:10,034
+<font face="Open Sans Semibold" size="73"><b>Evo, let's do it!</b></font>
+
+346
+00:24:20,814 --> 00:24:23,314
+<font face="Open Sans Semibold" size="73"><b>He caught me off guard, 
+sprinting out in a place like that.</b></font>
+
+347
+00:24:25,084 --> 00:24:28,814
+<font face="Open Sans Semibold" size="73"><b>Public roads are unfair in every way.</b></font>
+
+348
+00:24:31,774 --> 00:24:36,514
+<font face="Open Sans Semibold" size="73"><b>On a complex winding road 
+layout with no escape zones</b></font>
+
+349
+00:24:36,514 --> 00:24:39,644
+<font face="Open Sans Semibold" size="73"><b>strictly speaking, you can
+never reach the limit.</b></font>
+
+350
+00:24:40,914 --> 00:24:46,114
+<font face="Open Sans Semibold" size="73"><b>If there was a public road specialist,
+that person would possess</b></font>
+
+351
+00:24:46,114 --> 00:24:52,504
+<font face="Open Sans Semibold" size="73"><b>courage, fighting spirit, experience, and 
+in some cases, the recklessness of youth.</b></font>
+
+352
+00:24:55,944 --> 00:24:56,954
+<font face="Open Sans Semibold" size="73"><b>I can catch up.</b></font>
+
+353
+00:24:56,954 --> 00:24:58,634
+<font face="Open Sans Semibold" size="73"><b>I must.</b></font>
+
+354
+00:24:58,634 --> 00:25:02,254
+<font face="Open Sans Semibold" size="73"><b>I must catch him once
+again no matter what!</b></font>
+
+355
+00:25:03,284 --> 00:25:08,194
+<font face="Open Sans Semibold" size="73"><b>and a plus factor given only
+to those chosen by God.</b></font>
+
+356
+00:25:32,914 --> 00:25:36,604
+<font face="Open Sans Semibold" size="73"><b>Following the brake light of the front car.</b></font>
+
+357
+00:25:36,604 --> 00:25:42,214
+<font face="Open Sans Semibold" size="73"><b>A shimmering light up ahead in the dark street.</b></font>
+
+358
+00:25:42,794 --> 00:25:46,444
+<font face="Open Sans Semibold" size="73"><b>It's the silence like a silent film.</b></font>
+
+359
+00:25:46,444 --> 00:25:52,414
+<font face="Open Sans Semibold" size="73"><b>The light was all I could depend on.</b></font>
+
+360
+00:25:53,164 --> 00:25:58,244
+<font face="Open Sans Semibold" size="73"><b>I felt like I could catch it,</b></font>
+
+361
+00:25:58,244 --> 00:26:01,774
+<font face="Open Sans Semibold" size="73"><b>if I passed through this tree-lined street.</b></font>
+
+362
+00:26:01,774 --> 00:26:05,414
+<font face="Open Sans Semibold" size="73"><b>Get up! I just can't understand.</b></font>
+
+363
+00:26:05,414 --> 00:26:11,864
+<font face="Open Sans Semibold" size="73"><b>I couldn't find what I'd been looking for.</b></font>
+
+364
+00:26:11,864 --> 00:26:15,354
+<font face="Open Sans Semibold" size="73"><b>Yeah, it starts at this moment.</b></font>
+
+365
+00:26:15,354 --> 00:26:19,024
+<font face="Open Sans Semibold" size="73"><b>At this place.</b></font>
+
+366
+00:26:19,024 --> 00:26:22,404
+<font face="Open Sans Semibold" size="73"><b>Please turn over the flyleaf.</b></font>
+
+367
+00:26:28,644 --> 00:26:32,254
+<font face="Open Sans Semibold" size="73"><b>I lost my way.</b></font>
+
+368
+00:26:32,254 --> 00:26:35,314
+<font face="Open Sans Semibold" size="73"><b>Fogged up windows, and</b></font>
+
+369
+00:26:35,314 --> 00:26:38,654
+<font face="Open Sans Semibold" size="73"><b>messed up navigation.</b></font>
+
+370
+00:26:38,654 --> 00:26:42,314
+<font face="Open Sans Semibold" size="73"><b>As the stoplight turns red</b></font>
+
+371
+00:26:42,314 --> 00:26:48,984
+<font face="Open Sans Semibold" size="73"><b>a light in the side mirror blinds my eyes.</b></font>
+
+372
+00:26:48,984 --> 00:26:54,024
+<font face="Open Sans Semibold" size="73"><b>I gradually close the window</b></font>
+
+373
+00:26:54,024 --> 00:26:57,454
+<font face="Open Sans Semibold" size="73"><b>to stop the cold wind from blowing in.</b></font>
+
+374
+00:26:57,454 --> 00:27:01,194
+<font face="Open Sans Semibold" size="73"><b>Get up! I just can't understand.</b></font>
+
+375
+00:27:01,194 --> 00:27:07,564
+<font face="Open Sans Semibold" size="73"><b>We must choose one of the paths that lie ahead.</b></font>
+
+376
+00:27:07,564 --> 00:27:10,984
+<font face="Open Sans Semibold" size="73"><b>Yeah, it starts at this moment.</b></font>
+
+377
+00:27:10,984 --> 00:27:14,604
+<font face="Open Sans Semibold" size="73"><b>Because you're with me.</b></font>
+
+378
+00:27:14,604 --> 00:27:17,814
+<font face="Open Sans Semibold" size="73"><b>Please turn over the flyleaf.</b></font>
+

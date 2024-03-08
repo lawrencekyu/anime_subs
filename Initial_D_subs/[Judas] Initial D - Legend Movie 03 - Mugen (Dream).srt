@@ -1,0 +1,2757 @@
+1
+00:00:27,007 --> 00:00:31,007
+<font face="Qlassik Bold" size="40"><font color="#ffffff">This story is a fiction, and all names and places are used in a fictional manner.
+ Obey the traffic laws and drive safely.</font></font>
+
+2
+00:00:39,757 --> 00:00:43,507
+<font face="Qlassik Bold" size="40">Young Magazine 35th Anniversary Production</font>
+
+3
+00:00:45,107 --> 00:00:48,147
+<font size="42" color="#ffff00">Bigger world, huh ?</font>
+
+4
+00:01:14,687 --> 00:01:16,007
+<font size="42" color="#ffff00">A car's gaining on us.</font>
+
+5
+00:01:16,707 --> 00:01:21,157
+<font size="42" color="#ffff00">A hillbilly from Akina is ten years too
+ early to be putting pressure on me.{trying to pressure me ? }</font>
+
+6
+00:01:21,157 --> 00:01:22,657
+<font size="42" color="#ffff00">I'll just leave him in the dust.</font>
+
+7
+00:01:42,547 --> 00:01:46,407
+<font size="42" color="#ffff00"><font color="#ffffff">I can't believe this.
+Is this really my Eight-Five ?!</font></font>
+
+8
+00:01:51,297 --> 00:01:54,907
+<font size="42" color="#ffff00">That's the Levin we saw earlier at Akina's peak.</font>
+
+9
+00:01:54,907 --> 00:01:56,007
+<font size="42" color="#ffff00">It's that Eight-Five Levin.</font>
+
+10
+00:01:56,687 --> 00:01:59,407
+<font size="42" color="#ffff00">Eight-Five ? Don't be stupid.{silly.}</font>
+
+11
+00:01:59,407 --> 00:02:02,557
+<font size="42" color="#ffff00">There's no way a turtle like an
+ Eight-Five can keep up with me.</font>
+
+12
+00:02:05,087 --> 00:02:07,887
+<font size="42" color="#ffff00">Takumi, you've got a frightening gaze.</font>
+
+13
+00:02:07,887 --> 00:02:12,607
+<font size="42" color="#ffff00">Itsuki, it might be a little scary, but just trust me.</font>
+
+14
+00:02:12,607 --> 00:02:15,107
+<font size="42" color="#ffff00">No. I'm scared enough.</font>
+
+15
+00:02:15,107 --> 00:02:20,207
+<font size="42" color="#ffff00">Now I'll show them the max potential 
+of the car they mocked and laughed at.</font>
+
+16
+00:02:25,697 --> 00:02:27,307
+<font size="42" color="#ffff00">That's definitely the Eight-Five from earlier !</font>
+
+17
+00:02:31,977 --> 00:02:34,007
+<font size="42" color="#ffff00"><font color="#ffffff">Huh ? What's wrong ?</font></font>
+
+18
+00:02:34,657 --> 00:02:37,867
+<font size="42" color="#ffff00"><font color="#ffffff">I can't pick up speed on the downhill.</font></font>
+
+19
+00:02:39,417 --> 00:02:42,307
+<font size="42" color="#ffff00"><font color="#ffffff">And these tires have no grip.</font></font>
+
+20
+00:02:42,307 --> 00:02:45,497
+<font size="42" color="#ffff00"><font color="#ffffff">Once the car starts skidding, it doesn't stop.</font></font>
+
+21
+00:02:46,107 --> 00:02:47,247
+<font size="42" color="#ffff00">I can't shake it.</font>
+
+22
+00:02:47,247 --> 00:02:49,207
+<font size="42" color="#ffff00">The brat behind us is too good.</font>
+
+23
+00:02:49,207 --> 00:02:50,457
+<font size="42" color="#ffff00">He's so fast.</font>
+
+24
+00:02:50,587 --> 00:02:51,777
+<font size="42" color="#ffff00"><font color="#ffffff">So slow...</font></font>
+
+25
+00:02:52,217 --> 00:02:53,607
+<font size="42" color="#ffff00"><font color="#ffffff">I'd better do <i>it.</i></font></font>
+
+26
+00:03:03,977 --> 00:03:05,007
+<font size="42" color="#ffff00">What the hell...?!</font>
+
+27
+00:03:09,537 --> 00:03:12,007
+<font size="42" color="#ffff00">How did I get passed ?</font>
+
+28
+00:03:12,007 --> 00:03:14,307
+<font size="42" color="#ffff00">Those brats were lying.</font>
+
+29
+00:03:14,307 --> 00:03:17,107
+<font size="42" color="#ffff00">It's gotta be an Eight-Six, not an Eight-Five.</font>
+
+30
+00:03:18,067 --> 00:03:20,207
+<font size="42" color="#ffff00">Spoke too soon. That hideous roll...</font>
+
+31
+00:03:20,627 --> 00:03:22,707
+<font size="42" color="#ffff00">And under-steering due to the roll...</font>
+
+32
+00:03:23,537 --> 00:03:28,007
+<font size="42" color="#ffff00">But it's still fast. What's{wrong} with that car ?!</font>
+
+33
+00:03:34,987 --> 00:03:38,207
+<font size="42" color="#ffff00">Enough ! That's enough, Takumi !</font>
+
+34
+00:03:41,507 --> 00:03:45,607
+<font face="Georgia" size="48" color="#ffff00"><b><i><font color="#ffffff">New Movie [Initial]</font></i></b></font>
+
+35
+00:03:41,507 --> 00:03:45,607
+<font face="Qlassik Bold" size="40"><i><font color="#ffffff">Central Anime</font></i></font>
+
+36
+00:03:41,507 --> 00:03:45,607
+<font face="Georgia" size="48" color="#ffff00"><b><font color="#ffffff">- Dream -</font></b></font>
+
+37
+00:03:54,537 --> 00:03:55,457
+<font size="42" color="#ffff00">Here.</font>
+
+38
+00:03:55,457 --> 00:03:56,667
+<font size="42" color="#ffff00">Thank you.</font>
+
+39
+00:04:02,207 --> 00:04:05,457
+<font size="42" color="#ffff00">I never thought a car could be driven like that.</font>
+
+40
+00:04:05,457 --> 00:04:07,447
+<font size="42" color="#ffff00">It changed my view on life.</font>
+
+41
+00:04:08,257 --> 00:04:10,747
+<font size="42" color="#ffff00">{monosugoi}I felt like I was in a whole new dimension.</font>
+
+42
+00:04:11,167 --> 00:04:13,407
+<font size="42" color="#ffff00">Did I scare you that much ?</font>
+
+43
+00:04:13,407 --> 00:04:14,547
+<font size="42" color="#ffff00">I'm sorry.</font>
+
+44
+00:04:15,427 --> 00:04:18,847
+<font size="42" color="#ffff00">Those guys dissed your car so badly, so...</font>
+
+45
+00:04:20,247 --> 00:04:24,807
+<font size="42" color="#ffff00">No need to apologize, Takumi. 
+I'm so happy.</font>
+
+46
+00:04:27,297 --> 00:04:30,557
+<font size="42" color="#ffff00">It was my dream to have my own car.</font>
+
+47
+00:04:30,557 --> 00:04:37,937
+<font size="42" color="#ffff00">I worked so hard to buy this car thinking it was an Eight-Six, but it turned out to be an Eight-Five...</font>
+
+48
+00:04:39,467 --> 00:04:41,257
+<font size="42" color="#ffff00">Did you hear that ?</font>
+
+49
+00:04:41,257 --> 00:04:46,377
+<font size="42" color="#ffff00">It's not an Eight-Six, but an AE85, an Eight-Five...</font>
+
+50
+00:04:46,377 --> 00:04:49,307
+<font size="42" color="#ffff00">The Eight-Five's slower than a turtle.</font>
+
+51
+00:04:49,307 --> 00:04:55,067
+<font size="42" color="#ffff00">The body's identical to the Eight-Six, but the engine is SOHC, only good for a grandpa.</font>
+
+52
+00:04:55,587 --> 00:04:57,657
+<font size="42" color="#ffff00">My tears won't stop.{Can't stop tears. }</font>
+
+53
+00:04:57,657 --> 00:05:00,557
+<font size="42" color="#ffff00">I never thought I'd see anyone
+ driving{drive} an Eight-Five these days.</font>
+
+54
+00:05:02,457 --> 00:05:05,707
+<font size="42" color="#ffff00">Well, it suits street-racer-wannabees.</font>
+
+55
+00:05:05,707 --> 00:05:10,427
+<font size="42" color="#ffff00">Try hard so you don't annoy the tourist bus driver.</font>
+
+56
+00:05:12,487 --> 00:05:15,207
+<font size="42" color="#ffff00">Man, I laughed so hard.</font>
+
+57
+00:05:17,987 --> 00:05:20,627
+<font size="42" color="#ffff00">But now I know better.</font>
+
+58
+00:05:20,627 --> 00:05:22,627
+<font size="42" color="#ffff00">The performance of a car doesn't matter.</font>
+
+59
+00:05:23,187 --> 00:05:26,857
+<font size="42" color="#ffff00">If I had skills, I could drive well, too.</font>
+
+60
+00:05:31,067 --> 00:05:34,847
+<font size="42" color="#ffff00">I've come to like this car very much.</font>
+
+61
+00:05:36,167 --> 00:05:37,407
+<font size="42" color="#ffff00">I'll treasure it.</font>
+
+62
+00:05:38,457 --> 00:05:40,657
+<font size="42" color="#ffff00">I'll practice hard.</font>
+
+63
+00:05:40,657 --> 00:05:44,357
+<font size="42" color="#ffff00">Even if someone mocks me, I won't give a damn.</font>
+
+64
+00:05:44,357 --> 00:05:46,907
+<font size="42" color="#ffff00">My Levin is awesome.</font>
+
+65
+00:05:46,907 --> 00:05:49,377
+<font size="42" color="#ffff00">You're right. I envy you.</font>
+
+66
+00:05:50,457 --> 00:05:53,707
+<font size="42" color="#ffff00">Oh, give me a break.
+ You drive a genuine Eight-Six.</font>
+
+67
+00:05:53,707 --> 00:05:55,907
+<font size="42" color="#ffff00">That's my dad's car.</font>
+
+68
+00:05:56,307 --> 00:05:59,107
+<font size="42" color="#ffff00">I was really shocked when you...</font>
+
+69
+00:06:01,157 --> 00:06:03,217
+<font size="42" color="#ffff00">...arrived at the gas station in this.</font>
+
+70
+00:06:04,417 --> 00:06:09,347
+<font size="42" color="#ffff00">Even if it's used, having your own car is amazing for a high school student.</font>
+
+71
+00:06:09,897 --> 00:06:14,247
+<font size="42" color="#ffff00">I really envy you, Itsuki.</font>
+
+72
+00:06:15,057 --> 00:06:16,107
+<font size="42" color="#ffff00">Takumi...</font>
+
+73
+00:06:23,307 --> 00:06:25,907
+<font size="42" color="#ffff00">I suppose...</font>
+
+74
+00:06:25,907 --> 00:06:31,407
+<font size="42" color="#ffff00">...having a few driving skills doesn't make you
+ a street racer unless you own a car, does it ?</font>
+
+75
+00:06:32,217 --> 00:06:37,777
+<font size="42" color="#ffff00">Iketani and Kenji own their own cars,
+ and they take good care of them...</font>
+
+76
+00:06:37,777 --> 00:06:40,267
+<font size="42" color="#ffff00">{marude}...like they're a part of them.</font>
+
+77
+00:06:40,987 --> 00:06:44,787
+<font size="42" color="#ffff00">Watching them makes me 
+want to have my own car.</font>
+
+78
+00:06:44,787 --> 00:06:50,907
+<font size="42" color="#ffff00">Somehow, you've changed recently.
+ You used to be so bored.</font>
+
+79
+00:06:56,907 --> 00:06:58,507
+<font size="42" color="#ffff00">Nice sound.</font>
+
+80
+00:06:58,507 --> 00:07:00,217
+<font size="42" color="#ffff00">Must be coming back 
+from the mountain pass.</font>
+
+81
+00:07:01,107 --> 00:07:04,867
+<font size="42" color="#ffff00">{mousugu}The battle against Takahashi 
+Ryosuke is soon, right, Takumi ?</font>
+
+82
+00:07:04,867 --> 00:07:05,757
+<font size="42" color="#ffff00">Yeah.</font>
+
+83
+00:07:05,757 --> 00:07:07,207
+<font size="42" color="#ffff00">Do you think you can win ?</font>
+
+84
+00:07:07,457 --> 00:07:09,907
+<font size="42" color="#ffff00">He's the real deal.</font>
+
+85
+00:07:09,907 --> 00:07:14,047
+<font size="42" color="#ffff00">He's very fast. 
+Faster than anyone I've met.</font>
+
+86
+00:07:16,447 --> 00:07:19,757
+<font size="42" color="#ffff00">That's why I'm really{pretty} excited.</font>
+
+87
+00:07:23,847 --> 00:07:26,527
+<font size="42" color="#ffff00">You have changed.</font>
+
+88
+00:07:27,957 --> 00:07:30,707
+<font face="Qlassik Bold" size="40">{\an7}<font color="#000000">Local
+ Business
+ Joint
+ Career
+ Fair</font></font>
+
+89
+00:07:37,047 --> 00:07:38,607
+<font size="42" color="#ffff00">Takumi !</font>
+
+90
+00:07:40,297 --> 00:07:42,007
+<font size="42" color="#ffff00">Hey, Mogi.</font>
+
+91
+00:07:42,187 --> 00:07:44,607
+<font size="42" color="#ffff00">You don't work today, right ?</font>
+
+92
+00:07:45,407 --> 00:07:46,407
+<font size="42" color="#ffff00">Wanna hang out somewhere ?</font>
+
+93
+00:07:48,167 --> 00:07:49,887
+<font size="42" color="#ffff00">Fine with me.</font>
+
+94
+00:08:15,307 --> 00:08:16,757
+<font face="Qlassik Bold" size="40">Tokimeki Deck 
+Shibukawa-city</font>
+
+95
+00:08:26,707 --> 00:08:29,137
+<font face="Maiandra GD" size="28">{\an8}Mt. Akagi</font>
+
+96
+00:08:26,957 --> 00:08:30,157
+<font face="Maiandra GD" size="28">{\an8}Mt. Nikko Shirane</font>
+
+97
+00:08:27,657 --> 00:08:30,157
+<font face="Maiandra GD" size="28">{\an8}<font color="#ffffff">Joetsu Shinkansen</font></font>
+
+98
+00:08:27,807 --> 00:08:30,157
+<font face="Maiandra GD" size="28">{\an8}Mt. Komochi</font>
+
+99
+00:08:28,907 --> 00:08:30,157
+<font face="Maiandra GD" size="28">{\an8}Mt. Hotaka</font>
+
+100
+00:08:28,967 --> 00:08:31,507
+<font size="42" color="#ffff00">Huh ? 
+You're going to buy a car, Takumi ?</font>
+
+101
+00:08:32,257 --> 00:08:34,207
+<font size="42" color="#ffff00">It's a long ways away, though.</font>
+
+102
+00:08:34,207 --> 00:08:37,007
+<font size="42" color="#ffff00">The pay from a summer job isn't enough at all.</font>
+
+103
+00:08:38,377 --> 00:08:43,207
+<font size="42" color="#ffff00">I was working part time without
+ a goal, but now I've found one.</font>
+
+104
+00:08:44,257 --> 00:08:45,257
+<font size="42" color="#ffff00">A goal ?</font>
+
+105
+00:08:46,267 --> 00:08:51,067
+<font size="42" color="#ffff00">That's wonderful.
+ I don't have anything like that.</font>
+
+106
+00:08:51,387 --> 00:08:53,807
+<font size="42" color="#ffff00">Mine isn't that great.</font>
+
+107
+00:08:53,807 --> 00:08:58,407
+<font size="42" color="#ffff00">Probably just a dream until I get a full-time job...</font>
+
+108
+00:08:58,407 --> 00:09:01,557
+<font size="42" color="#ffff00">Oh, don't say that. 
+I'm sure you can afford one.</font>
+
+109
+00:09:01,557 --> 00:09:03,607
+<font size="42" color="#ffff00">Until then, you have the Trueno.</font>
+
+110
+00:09:04,447 --> 00:09:08,777
+<font size="42" color="#ffff00">It's so cute. I like it a lot.</font>
+
+111
+00:09:09,567 --> 00:09:11,357
+<font size="42" color="#ffff00">Don't you like it ?</font>
+
+112
+00:09:12,007 --> 00:09:13,307
+<font size="42" color="#ffff00">I do.</font>
+
+113
+00:09:13,307 --> 00:09:16,627
+<font size="42" color="#ffff00">It's fun to drive, and it's a really great car, but...</font>
+
+114
+00:09:17,297 --> 00:09:19,647
+<font size="42" color="#ffff00">...it's not my car.</font>
+
+115
+00:09:23,157 --> 00:09:28,327
+<font size="42" color="#ffff00">I didn't know you were into car racing.</font>
+
+116
+00:09:30,157 --> 00:09:31,257
+<font size="42" color="#ffff00"><font color="#000000">August 27 at 10 pm</font></font>
+
+117
+00:09:30,157 --> 00:09:31,257
+<font size="42" color="#ffff00"><font color="#000000">I'll be waiting at the peak of Mt. Akina</font></font>
+
+118
+00:09:30,157 --> 00:09:31,257
+<font size="42" color="#ffff00"><font color="#000000">Takahashi Ryosuke</font></font>
+
+119
+00:09:33,287 --> 00:09:36,297
+<font size="42" color="#ffff00">A declaration of challenge ?
+ It's like a period drama.</font>
+
+120
+00:09:43,707 --> 00:09:47,657
+<font size="42" color="#ffff00">Let's see, that's where the school is, right ?</font>
+
+121
+00:09:47,657 --> 00:09:51,007
+<font size="42" color="#ffff00">So, beyond that is Mt. Akagi ?</font>
+
+122
+00:09:51,007 --> 00:09:55,767
+<font size="42" color="#ffff00">And far beyond that is the ocean, right ?</font>
+
+123
+00:09:55,767 --> 00:09:56,847
+<font size="42" color="#ffff00">Probably.</font>
+
+124
+00:09:59,367 --> 00:10:00,557
+<font size="42" color="#ffff00">So big...</font>
+
+125
+00:10:01,657 --> 00:10:07,497
+<font size="42" color="#ffff00">We only know a small area. 
+The world out there is so much bigger.</font>
+
+126
+00:10:25,697 --> 00:10:28,287
+<font size="42" color="#ffff00">So, this Saturday, huh ?</font>
+
+127
+00:10:28,287 --> 00:10:33,017
+<font size="42" color="#ffff00">Right. Akagi Red Suns 
+versus Akina Speed Stars.</font>
+
+128
+00:10:33,017 --> 00:10:39,547
+<font size="42" color="#ffff00">No, it's more like a downhill battle between
+ Takahashi Ryosuke's RX-7 and Akina's Eight-Six.</font>
+
+129
+00:10:39,547 --> 00:10:42,757
+<font size="42" color="#ffff00">{mata}{...and}The mountain pass will
+ become a festival site again.</font>
+
+130
+00:10:42,757 --> 00:10:48,137
+<font size="42" color="#ffff00">Your son has changed so much.
+ He became Akina's hero in just one summer.</font>
+
+131
+00:10:49,147 --> 00:10:51,167
+<font size="42" color="#ffff00">His driving has changed.</font>
+
+132
+00:10:52,607 --> 00:10:59,107
+<font size="42" color="#ffff00">He was just a good driver, 
+but he drives fast these days.</font>
+
+133
+00:10:59,107 --> 00:11:02,707
+<font size="42" color="#ffff00">He broke through a wall, which is a good sign.</font>
+
+134
+00:11:15,177 --> 00:11:20,457
+<font size="42" color="#ffff00">Hey, Bunta.
+ Did you plan all this from the beginning...</font>
+
+135
+00:11:20,457 --> 00:11:23,407
+<font size="42" color="#ffff00">...ever since you decided to 
+let Takumi handle the delivery ?</font>
+
+136
+00:11:23,407 --> 00:11:25,557
+<font size="42" color="#ffff00">What do you mean ?</font>
+
+137
+00:11:25,557 --> 00:11:29,757
+<font size="42" color="#ffff00">Like telling him to drive without spilling water in the cup, so he wouldn't damage the tofu.</font>
+
+138
+00:11:29,757 --> 00:11:34,887
+<font size="42" color="#ffff00">{honto}But you wanted to teach him the
+ basics of weight transfer, didn't you ?</font>
+
+139
+00:11:37,367 --> 00:11:40,207
+<font size="42" color="#ffff00">I dunno.</font>
+
+140
+00:11:40,207 --> 00:11:44,687
+<font size="42" color="#ffff00">I think I was more concerned 
+about the tofu in the beginning.</font>
+
+141
+00:11:44,967 --> 00:11:47,857
+<font size="42" color="#ffff00">But Takumi has <i>it.</i></font>
+
+142
+00:11:47,857 --> 00:11:55,457
+<font size="42" color="#ffff00">Eventually, I did start tuning the suspension, brakes, and transmission to match his growth.</font>
+
+143
+00:11:55,457 --> 00:12:00,887
+<font size="42" color="#ffff00">I admit I changed his driving style to my liking.</font>
+
+144
+00:12:00,887 --> 00:12:07,607
+<font size="42" color="#ffff00">What's the purpose ? Why are you 
+giving him special driving training ?</font>
+
+145
+00:12:07,607 --> 00:12:10,537
+<font size="42" color="#ffff00">I don't have any purpose, really.</font>
+
+146
+00:12:12,777 --> 00:12:16,657
+<font size="42" color="#ffff00">It's just fun to watch him getting better and better.</font>
+
+147
+00:12:16,657 --> 00:12:20,807
+<font size="42" color="#ffff00">He'll eventually surpass me, 
+and do what he likes to do.</font>
+
+148
+00:12:21,427 --> 00:12:26,607
+<font size="42" color="#ffff00">Whatever it is, I hope 
+he'll be ready, since I wasn't.</font>
+
+149
+00:12:27,147 --> 00:12:28,417
+<font size="42" color="#ffff00">I see.</font>
+
+150
+00:12:30,887 --> 00:12:39,807
+<font size="42" color="#ffff00">The view from here hasn't changed at all, 
+even though the world's changing so rapidly.</font>
+
+151
+00:12:40,547 --> 00:12:46,257
+<font size="42" color="#ffff00">We stayed in this city, and we're exactly 
+the same as we were in the old days.</font>
+
+152
+00:12:57,697 --> 00:13:02,687
+<font size="42" color="#ffff00">Iketani, I'm still not up for it.</font>
+
+153
+00:13:02,687 --> 00:13:07,607
+<font size="42" color="#ffff00">I don't think I can drive your car well because I've never driven anything other than the Eight-Six.</font>
+
+154
+00:13:07,607 --> 00:13:13,107
+<font size="42" color="#ffff00">I beg you, Takumi. I think I can learn
+a lot, even if you just cruise around.</font>
+
+155
+00:13:14,607 --> 00:13:16,707
+<font size="42" color="#ffff00">So, what do you want me to do then ?</font>
+
+156
+00:13:16,707 --> 00:13:20,257
+<font size="42" color="#ffff00">Braking drift.
+ I want to learn the timing.</font>
+
+157
+00:13:21,057 --> 00:13:22,127
+<font size="42" color="#ffff00">Okay.</font>
+
+158
+00:13:23,897 --> 00:13:26,027
+<font size="42" color="#ffff00">H...hey, we're going for it already ?</font>
+
+159
+00:13:27,867 --> 00:13:30,807
+<font size="42" color="#ffff00"><font color="#ffffff">This feels way too fast !</font></font>
+
+160
+00:13:39,947 --> 00:13:43,137
+<font size="42" color="#ffff00">It sounds pretty good, whoever is driving.</font>
+
+161
+00:13:43,137 --> 00:13:46,847
+<font size="42" color="#ffff00">Well, I'd better get going.
+ I have to check the updated suspension.</font>
+
+162
+00:13:49,177 --> 00:13:50,867
+<font size="42" color="#ffff00">R...ready.</font>
+
+163
+00:14:07,457 --> 00:14:13,327
+<font size="42" color="#ffff00"><font color="#ffffff">Incredible. Just like Itsuki said, 
+whether it's the Eight-Five or the Silvia...</font></font>
+
+164
+00:14:13,327 --> 00:14:15,657
+<font size="42" color="#ffff00"><font color="#ffffff">...he's fast, even when it's his first time.{in his first drive.}</font></font>
+
+165
+00:14:15,657 --> 00:14:17,187
+<font size="42" color="#ffff00"><font color="#ffffff">He's incredibly fast.</font></font>
+
+166
+00:14:18,007 --> 00:14:20,657
+<font size="42" color="#ffff00"><font color="#ffffff">But I feel safe for some reason.</font></font>
+
+167
+00:14:20,657 --> 00:14:24,767
+<font size="42" color="#ffff00"><font color="#ffffff">So it's true. You don't feel scared
+ when a skilled driver goes fast.</font></font>
+
+168
+00:14:25,457 --> 00:14:31,007
+<font size="42" color="#ffff00">It's a little different from my dad's car,
+ but now I know how to drive this.</font>
+
+169
+00:14:31,927 --> 00:14:34,167
+<font size="42" color="#ffff00">I'm going to try drifting.</font>
+
+170
+00:14:34,167 --> 00:14:38,007
+<font size="42" color="#ffff00">You're going to ?! 
+Then what were you doing back there ?!</font>
+
+171
+00:14:51,427 --> 00:14:55,207
+<font size="42" color="#ffff00"><font color="#ffffff">Here it comes !
+His entry speed's just incredible !</font></font>
+
+172
+00:15:05,727 --> 00:15:07,507
+<font size="42" color="#ffff00">What the hell are you doing, Bunta ?!</font>
+
+173
+00:15:08,107 --> 00:15:09,947
+<font size="42" color="#ffff00">I need a smoke.</font>
+
+174
+00:15:09,947 --> 00:15:13,207
+<font size="42" color="#ffff00">I...I...In the middle of drifting ?!</font>
+
+175
+00:15:19,927 --> 00:15:20,907
+<font size="42" color="#ffff00"><font color="#ffffff">Oh, no !</font></font>
+
+176
+00:15:25,357 --> 00:15:28,007
+<font size="42" color="#ffff00">Oh well, good enough.</font>
+
+177
+00:15:31,097 --> 00:15:33,707
+<font size="42" color="#ffff00">Now, I'd better get serious.</font>
+
+178
+00:15:34,627 --> 00:15:38,157
+<font size="42" color="#ffff00">You really haven't changed since the old days !</font>
+
+179
+00:15:38,987 --> 00:15:42,207
+<font size="42" color="#ffff00">Let me get out !</font>
+
+180
+00:15:58,857 --> 00:16:02,757
+<font size="42" color="#ffff00"><font color="#ffffff">Oh man, what a terrible night.</font></font>
+
+181
+00:16:02,757 --> 00:16:06,287
+<font size="42" color="#ffff00"><font color="#ffffff">They say you don't feel fear 
+when a skilled driver goes fast, but...</font></font>
+
+182
+00:16:07,017 --> 00:16:09,137
+<font size="42" color="#ffff00"><font color="#ffffff">That's a total lie.</font></font>
+
+183
+00:16:09,737 --> 00:16:14,047
+<font size="42" color="#ffff00"><font color="#ffffff">Bunta's super crazy when
+ it comes to pursuing speed.</font></font>
+
+184
+00:16:16,977 --> 00:16:23,247
+<font size="42" color="#ffff00"><font color="#ffffff">And even Bunta recognizes Takumi, so he must be...</font></font>
+
+185
+00:16:25,647 --> 00:16:27,557
+<font size="42" color="#ffff00">Akagi's White Comet ?</font>
+
+186
+00:16:28,307 --> 00:16:31,107
+<font size="42" color="#ffff00">People call Takahashi Ryosuke that ?</font>
+
+187
+00:16:31,107 --> 00:16:33,737
+<font size="42" color="#ffff00">Yeah. It was about three years ago...</font>
+
+188
+00:16:34,247 --> 00:16:36,657
+<font size="42" color="#ffff00">Akagi's level was already high.</font>
+
+189
+00:16:36,657 --> 00:16:42,567
+<font size="42" color="#ffff00">Then word spread quickly when a
+super fast white FC3S showed up.</font>
+
+190
+00:16:43,087 --> 00:16:46,297
+<font size="42" color="#ffff00">That was the lone wolf Takahashi Ryosuke.</font>
+
+191
+00:16:46,727 --> 00:16:50,337
+<font size="42" color="#ffff00">The "lone wolf" ?
+ What about the Akagi Red Suns ?</font>
+
+192
+00:16:50,847 --> 00:16:56,557
+<font size="42" color="#ffff00">Takahashi Ryosuke formed the Red Suns later. 
+The goal was to perfect driving technique.</font>
+
+193
+00:16:57,067 --> 00:17:01,757
+<font size="42" color="#ffff00">They participate in gymkhana and circuit runs.</font>
+
+194
+00:17:01,757 --> 00:17:05,697
+<font size="42" color="#ffff00">The team's fundamentally different 
+from the usual groups of friends.</font>
+
+195
+00:17:06,457 --> 00:17:09,227
+<font size="42" color="#ffff00">That's why their level is so high.</font>
+
+196
+00:17:09,227 --> 00:17:16,957
+<font size="42" color="#ffff00">Together with his brother Keisuke, they're now known as the Takahashi Brothers, but to me...</font>
+
+197
+00:17:16,957 --> 00:17:20,307
+<font size="42" color="#ffff00">...Akagi's White Comet sounds right.</font>
+
+198
+00:17:20,307 --> 00:17:25,107
+<font size="42" color="#ffff00">Takahashi Ryosuke's charisma is unmatched in Gunma.</font>
+
+199
+00:17:27,647 --> 00:17:31,757
+<font size="42" color="#ffff00">Akagi's White Comet, huh ?
+ Sounds awesome.</font>
+
+200
+00:17:31,757 --> 00:17:35,107
+<font size="42" color="#ffff00">This Saturday's battle is getting more interesting.{, isn't it Takumi ? Right ?}</font>
+
+201
+00:17:35,107 --> 00:17:36,507
+<font size="42" color="#ffff00">Right, Takumi ?</font>
+
+202
+00:17:36,507 --> 00:17:37,467
+<font size="42" color="#ffff00">Isn't it ?</font>
+
+203
+00:17:39,657 --> 00:17:40,407
+<font size="42" color="#ffff00">Huh ?</font>
+
+204
+00:17:41,297 --> 00:17:43,657
+<font size="42" color="#ffff00">Where is that low tension coming from ?</font>
+
+205
+00:17:43,657 --> 00:17:46,367
+<font size="42" color="#ffff00">You said you were excited the other day !</font>
+
+206
+00:17:49,247 --> 00:17:52,407
+<font size="42" color="#ffff00">Are you going to be alright ?</font>
+
+207
+00:18:04,307 --> 00:18:05,907
+<font size="42" color="#ffff00">I heard this at the shop.</font>
+
+208
+00:18:05,907 --> 00:18:10,887
+<font size="42" color="#ffff00">Is it true that Ryosuke turned down
+an offer from a professional team ?</font>
+
+209
+00:18:11,337 --> 00:18:13,007
+<font size="42" color="#ffff00">Yeah, it's true.</font>
+
+210
+00:18:13,367 --> 00:18:14,707
+<font size="42" color="#ffff00">I see.</font>
+
+211
+00:18:14,707 --> 00:18:19,707
+<font size="42" color="#ffff00">Is it because it's hard to strike a
+ balance with his med school studies ?</font>
+
+212
+00:18:19,707 --> 00:18:22,157
+<font size="42" color="#ffff00">That'd be a piece of cake for my brother.</font>
+
+213
+00:18:22,157 --> 00:18:23,657
+<font size="42" color="#ffff00">Then why ?</font>
+
+214
+00:18:23,657 --> 00:18:30,257
+<font size="42" color="#ffff00">RS Giga is an elite team with stellar 
+achievements in production car racing at Fuji.{???}</font>
+
+215
+00:18:30,257 --> 00:18:35,057
+<font size="42" color="#ffff00">Becoming a pro driver, stepping into 
+the spotlight, and getting recognized...</font>
+
+216
+00:18:35,057 --> 00:18:39,027
+<font size="42" color="#ffff00">{hashiriya}That's the success story 
+every street racer dreams of.</font>
+
+217
+00:18:39,417 --> 00:18:43,957
+<font size="42" color="#ffff00">Kenta, Ryosuke's not interested
+ in the world of the pros.</font>
+
+218
+00:18:43,957 --> 00:18:48,657
+<font size="42" color="#ffff00">Then why is he so into
+ gymkhanas and circuit runs ?</font>
+
+219
+00:18:48,657 --> 00:18:50,157
+<font size="42" color="#ffff00">What's the reason ?</font>
+
+220
+00:18:53,657 --> 00:18:55,007
+<font size="42" color="#ffff00">The public street...</font>
+
+221
+00:18:56,377 --> 00:18:59,657
+<font size="42" color="#ffff00">Process is what matters to my brother...</font>
+
+222
+00:18:59,657 --> 00:19:01,487
+<font size="42" color="#ffff00">...in order to be the best on the public street.</font>
+
+223
+00:19:23,507 --> 00:19:26,457
+<font size="42" color="#ffff00">Welcome home, Brother !
+ Is your FC ready ?</font>
+
+224
+00:19:26,937 --> 00:19:29,307
+<font size="42" color="#ffff00">Yeah. I'm going to take
+ it for a spin on Mt. Akagi.</font>
+
+225
+00:19:29,307 --> 00:19:30,407
+<font size="42" color="#ffff00">Are you coming ?</font>
+
+226
+00:19:31,017 --> 00:19:31,817
+<font size="42" color="#ffff00">I'll be right there !{Right away !}</font>
+
+227
+00:19:43,057 --> 00:19:45,607
+<font size="42" color="#ffff00">So, how much power did you add ?</font>
+
+228
+00:19:46,847 --> 00:19:48,607
+<font size="42" color="#ffff00">Don't be surprised, Keisuke.</font>
+
+229
+00:19:49,307 --> 00:19:52,407
+<font size="42" color="#ffff00">It's got 260 hp at the maximum.</font>
+
+230
+00:19:52,407 --> 00:19:55,807
+<font size="42" color="#ffff00">You dropped it from 340 hp ?!</font>
+
+231
+00:19:55,807 --> 00:19:58,507
+<font size="42" color="#ffff00">What's the point of slowing the car down ?</font>
+
+232
+00:19:58,507 --> 00:20:01,587
+<font size="42" color="#ffff00">{After the battle against him,} You must've learned the lesson
+ the hard way after you raced him.</font>
+
+233
+00:20:01,587 --> 00:20:05,007
+<font size="42" color="#ffff00">{kudari}Total balance is the key to
+ mastering the downhill, not power.</font>
+
+234
+00:20:07,167 --> 00:20:12,557
+<font size="42" color="#ffff00">Sometimes you have to lower the power to go faster, which makes street racing complex.</font>
+
+235
+00:20:13,607 --> 00:20:18,357
+<font size="42" color="#ffff00">So Akina's Eight-Six is a formidable opponent ?</font>
+
+236
+00:20:19,387 --> 00:20:21,207
+<font size="42" color="#ffff00">You could say that.</font>
+
+237
+00:20:22,297 --> 00:20:29,107
+<font size="42" color="#ffff00">I was confident I could manage big power on the downhill, so this de-tune is humiliating.</font>
+
+238
+00:20:29,657 --> 00:20:34,847
+<font size="42" color="#ffff00">I have to put my pride aside in order to win.</font>
+
+239
+00:20:53,827 --> 00:20:58,257
+<font size="42" color="#ffff00">Incredible. The exit speed at 
+the corners is definitely faster.</font>
+
+240
+00:20:58,697 --> 00:21:01,707
+<font size="42" color="#ffff00">There's another reason 
+why I dropped the FC's power.</font>
+
+241
+00:21:02,467 --> 00:21:06,937
+<font size="42" color="#ffff00">If I just out-power the Eight-Six on
+ the straightaways, that's not a victory.</font>
+
+242
+00:21:06,937 --> 00:21:09,007
+<font size="42" color="#ffff00">{sorejaa}That won't satisfy me.</font>
+
+243
+00:21:12,777 --> 00:21:14,407
+<font size="42" color="#ffff00">Technique against technique.</font>
+
+244
+00:21:17,377 --> 00:21:19,377
+<font size="42" color="#ffff00">Drift against drift. That's my way.</font>
+
+245
+00:21:20,287 --> 00:21:23,807
+<font size="42" color="#ffff00">{konna}I'm happy to have met a driver
+ who makes me feel this way.</font>
+
+246
+00:21:24,697 --> 00:21:31,047
+<font size="42" color="#ffff00">I feel like I've changed back to Akagi's White Comet, instead of Takahashi Ryosuke of the Red Suns.</font>
+
+247
+00:21:31,727 --> 00:21:32,527
+<font size="42" color="#ffff00">Brother...</font>
+
+248
+00:21:46,867 --> 00:21:50,507
+<font size="42" color="#ffff00">Takumi, aren't you happy to be with me ?</font>
+
+249
+00:21:51,977 --> 00:21:57,707
+<font size="42" color="#ffff00">You look spaced out, 
+like your mind's somewhere else.</font>
+
+250
+00:21:57,707 --> 00:21:59,607
+<font size="42" color="#ffff00">I do ? Sorry.</font>
+
+251
+00:22:03,217 --> 00:22:04,327
+<font size="42" color="#ffff00">Thinking about cars ?</font>
+
+252
+00:22:08,857 --> 00:22:15,497
+<font size="42" color="#ffff00">The day after tomorrow, I'll race against a driver, who's very skilled, fast, and famous.</font>
+
+253
+00:22:16,257 --> 00:22:22,347
+<font size="42" color="#ffff00">{saikin}Lately, I've been thinking about
+ him a lot, and feeling uneasy.</font>
+
+254
+00:22:23,417 --> 00:22:25,707
+<font size="42" color="#ffff00">Maybe this is pressure.</font>
+
+255
+00:22:27,907 --> 00:22:29,137
+<font size="42" color="#ffff00">Is that it ?</font>
+
+256
+00:22:29,907 --> 00:22:32,547
+<font size="42" color="#ffff00">Cars have to be fast ?</font>
+
+257
+00:22:34,177 --> 00:22:36,167
+<font size="42" color="#ffff00">If you don't like it, just ignore it.</font>
+
+258
+00:22:37,227 --> 00:22:41,447
+<font size="42" color="#ffff00">Just because someone challenged
+ you doesn't mean you have to take it.</font>
+
+259
+00:22:43,177 --> 00:22:46,857
+<font size="42" color="#ffff00">I don't hate it.
+ I don't know if I can win, but...</font>
+
+260
+00:22:48,367 --> 00:22:50,107
+<font size="42" color="#ffff00">...I have no intention of running away.</font>
+
+261
+00:22:52,747 --> 00:22:55,067
+<font size="42" color="#ffff00">That's so you, Takumi.</font>
+
+262
+00:22:56,457 --> 00:22:59,777
+<font size="42" color="#ffff00">Deep down, you're really eager to race, right ?</font>
+
+263
+00:23:00,827 --> 00:23:06,057
+<font size="42" color="#ffff00">You look modest,
+ but you're a very competitive type.</font>
+
+264
+00:23:07,587 --> 00:23:09,607
+<font size="42" color="#ffff00">I've known all along.</font>
+
+265
+00:23:10,257 --> 00:23:13,657
+<font size="42" color="#ffff00">I wasn't the soccer club's 
+manager for no reason.</font>
+
+266
+00:23:21,697 --> 00:23:23,007
+<font size="42" color="#ffff00">Wanna head home ?</font>
+
+267
+00:23:23,007 --> 00:23:29,807
+<font size="42" color="#ffff00">Just a little longer, let's talk 
+just a little bit longer in the car.</font>
+
+268
+00:23:29,807 --> 00:23:31,167
+<font size="42" color="#ffff00">Okay.</font>
+
+269
+00:23:35,887 --> 00:23:38,307
+<font size="42" color="#ffff00">I know one more thing.</font>
+
+270
+00:23:40,497 --> 00:23:49,807
+<font size="42" color="#ffff00">I know why you punched an older student in the soccer club's locker room.</font>
+
+271
+00:23:50,987 --> 00:23:56,827
+<font size="42" color="#ffff00">A junior student told me what really 
+happened long after you quit the club.</font>
+
+272
+00:23:58,607 --> 00:24:02,307
+<font size="42" color="#ffff00">Natsuki's body's just gorgeous.</font>
+
+273
+00:24:02,307 --> 00:24:03,307
+<font size="42" color="#ffff00">I can't get enough of this.</font>
+
+274
+00:24:03,307 --> 00:24:07,607
+<font size="42" color="#ffff00">Hey, I'll have dirty thoughts every
+ time I see Mogi's face from now on.</font>
+
+275
+00:24:07,607 --> 00:24:08,807
+<font size="42" color="#ffff00">Don't be so envious.</font>
+
+276
+00:24:09,607 --> 00:24:10,827
+<font size="42" color="#ffff00">The other day...</font>
+
+277
+00:24:12,937 --> 00:24:16,457
+<font size="42" color="#ffff00">Cut your dirty talk.</font>
+
+278
+00:24:16,457 --> 00:24:18,557
+<font size="42" color="#ffff00">It gets on my nerves !</font>
+
+279
+00:24:18,557 --> 00:24:22,007
+<font size="42" color="#ffff00">What's wrong, Fujiwara ?!
+ I'm dating Natsuki !</font>
+
+280
+00:24:22,007 --> 00:24:23,607
+<font size="42" color="#ffff00">I'll say whatever I want !</font>
+
+281
+00:24:24,027 --> 00:24:28,707
+<font size="42" color="#ffff00">Besides, how can you talk 
+to senior students like that ?</font>
+
+282
+00:24:28,707 --> 00:24:31,607
+<font size="42" color="#ffff00">Like I care ?!</font>
+
+283
+00:24:35,427 --> 00:24:40,207
+<font size="42" color="#ffff00">You got angry for my sake.</font>
+
+284
+00:24:40,207 --> 00:24:43,777
+<font size="42" color="#ffff00">Sorry, I misunderstood you for a long time.</font>
+
+285
+00:24:44,427 --> 00:24:47,907
+<font size="42" color="#ffff00">It's okay. It doesn't matter now.</font>
+
+286
+00:25:43,527 --> 00:25:46,647
+<font size="42" color="#ffff00">See ?
+ Something's wrong with Takumi.</font>
+
+287
+00:25:46,647 --> 00:25:48,647
+<font size="42" color="#ffff00">I'm sure of it.</font>
+
+288
+00:25:48,647 --> 00:25:50,787
+<font size="42" color="#ffff00">Now that you mentioned it...</font>
+
+289
+00:25:50,787 --> 00:25:54,417
+<font size="42" color="#ffff00">But Takumi's always spaced out.</font>
+
+290
+00:25:54,897 --> 00:26:00,857
+<font size="42" color="#ffff00">He's even worse lately. 
+Almost completely out of it.</font>
+
+291
+00:26:00,857 --> 00:26:05,727
+<font size="42" color="#ffff00">At first, I thought he was concerned
+ about tomorrow's battle, but...</font>
+
+292
+00:26:05,727 --> 00:26:07,907
+<font size="42" color="#ffff00">It's not ? Then what is it ?</font>
+
+293
+00:26:08,447 --> 00:26:10,807
+<font size="42" color="#ffff00">Remember what Kenji said earlier ?</font>
+
+294
+00:26:13,067 --> 00:26:19,007
+<font size="42" color="#ffff00">You mean about how Kenji's friend
+ saw a panda Trueno with a girl inside ?</font>
+
+295
+00:26:19,007 --> 00:26:22,617
+<font size="42" color="#ffff00">Hey, why can't Takumi have a girlfriend ?</font>
+
+296
+00:26:22,617 --> 00:26:25,257
+<font size="42" color="#ffff00">Stop. I know what's going on.</font>
+
+297
+00:26:25,257 --> 00:26:27,887
+<font size="42" color="#ffff00">He must be lost in love.</font>
+
+298
+00:26:28,207 --> 00:26:29,657
+<font size="42" color="#ffff00">He is ?!</font>
+
+299
+00:26:36,927 --> 00:26:38,297
+<font size="42" color="#ffff00">Welcome.</font>
+
+300
+00:26:39,147 --> 00:26:40,537
+<font size="42" color="#ffff00">High octane, right ?</font>
+
+301
+00:26:40,537 --> 00:26:41,947
+<font size="42" color="#ffff00">Yup. Fill it up.</font>
+
+302
+00:26:41,947 --> 00:26:43,137
+<font size="42" color="#ffff00">Right away.</font>
+
+303
+00:26:43,927 --> 00:26:45,207
+<font size="42" color="#ffff00">No need to clean the glass.</font>
+
+304
+00:26:46,067 --> 00:26:47,447
+<font size="42" color="#ffff00">Okay. Thanks.</font>
+
+305
+00:26:48,287 --> 00:26:52,187
+<font size="42" color="#ffff00">Hey, being love sick the day 
+before a battle is pretty bad.</font>
+
+306
+00:26:52,707 --> 00:26:54,007
+<font size="42" color="#ffff00">What should we do, Iketani ?</font>
+
+307
+00:26:56,617 --> 00:27:01,007
+<font size="42" color="#ffff00">I want romance. A passionate one.</font>
+
+308
+00:27:01,457 --> 00:27:03,807
+<font size="42" color="#ffff00">This isn't the time for that.</font>
+
+309
+00:27:04,467 --> 00:27:05,987
+<font size="42" color="#ffff00">I'll take care of this...</font>
+
+310
+00:27:06,567 --> 00:27:12,607
+<font size="42" color="#ffff00">...while being completely free from personal envy like
+ "How come he's the only lucky one ?!"</font>
+
+311
+00:27:21,757 --> 00:27:23,507
+<font size="42" color="#ffff00">So, what's this about ?{'s the business ?}</font>
+
+312
+00:27:24,247 --> 00:27:28,107
+<font size="42" color="#ffff00">You've been seeing a girl lately, 
+without telling me{ lately}, haven't you ?</font>
+
+313
+00:27:30,007 --> 00:27:32,187
+<font size="42" color="#ffff00">I didn't mean to keep it a secret from you.</font>
+
+314
+00:27:32,187 --> 00:27:35,187
+<font size="42" color="#ffff00">But I don't have to report to you, do I ?</font>
+
+315
+00:27:35,187 --> 00:27:37,457
+<font size="42" color="#ffff00">No excuses. 
+Just answer my questions.</font>
+
+316
+00:27:37,707 --> 00:27:41,997
+<font size="42" color="#ffff00">So, how far have you gone ? 
+Be honest.</font>
+
+317
+00:27:43,107 --> 00:27:45,567
+<font size="42" color="#ffff00">How far...? 
+Up to Akina Lake.</font>
+
+318
+00:27:46,157 --> 00:27:49,457
+<font size="42" color="#ffff00">You moron, that's not what I meant !</font>
+
+319
+00:27:49,457 --> 00:27:52,257
+<font size="42" color="#ffff00">Hey, watch out !
+ Itsuki, watch where you're going !</font>
+
+320
+00:27:53,247 --> 00:27:57,807
+<font size="42" color="#ffff00">You must have kissed her already, I suppose.</font>
+
+321
+00:27:58,207 --> 00:27:59,187
+<font size="42" color="#ffff00">I did.</font>
+
+322
+00:27:59,427 --> 00:28:01,557
+<font size="42" color="#ffff00">What the hell...?!</font>
+
+323
+00:28:01,557 --> 00:28:05,207
+<font size="42" color="#ffff00">Stop that ! I mean it !</font>
+
+324
+00:28:08,647 --> 00:28:12,007
+<font size="42" color="#ffff00">Takumi, you've been acting
+ weird for the last few days.</font>
+
+325
+00:28:13,287 --> 00:28:16,657
+<font size="42" color="#ffff00">I've been thinking about something for a while.</font>
+
+326
+00:28:17,267 --> 00:28:21,147
+<font size="42" color="#ffff00">I know. It's not about
+ tomorrow's battle, is it ?</font>
+
+327
+00:28:22,027 --> 00:28:27,107
+<font size="42" color="#ffff00">You're right. I've been thinking
+ about what comes after that.</font>
+
+328
+00:28:27,447 --> 00:28:29,507
+<font size="42" color="#ffff00">After that ?</font>
+
+329
+00:28:29,507 --> 00:28:36,367
+<font size="42" color="#ffff00">How dare you say that to someone like me who 
+hasn't had a girlfriend for 18 years and counting !</font>
+
+330
+00:28:36,367 --> 00:28:39,657
+<font size="42" color="#ffff00">There's only one thing after a kiss.</font>
+
+331
+00:28:39,657 --> 00:28:42,447
+<font size="42" color="#ffff00">A hotel, right{you know} ? A hotel !</font>
+
+332
+00:28:42,447 --> 00:28:44,347
+<font size="42" color="#ffff00">What are you talking about ?</font>
+
+333
+00:28:45,467 --> 00:28:49,767
+<font size="42" color="#ffff00">I'm talking about what will 
+happen after tomorrow's battle.</font>
+
+334
+00:28:50,667 --> 00:28:56,447
+<font size="42" color="#ffff00">I don't have any concrete vision, 
+so it keeps bugging me.</font>
+
+335
+00:28:56,447 --> 00:28:59,607
+<font size="42" color="#ffff00">Huh ? What're you talking about ?</font>
+
+336
+00:28:59,607 --> 00:29:02,487
+<font size="42" color="#ffff00">Don't you see what I mean ?</font>
+
+337
+00:29:02,487 --> 00:29:07,107
+<font size="42" color="#ffff00">No, I don't. You think there has
+ to be something after the battle ?</font>
+
+338
+00:29:07,107 --> 00:29:12,557
+<font size="42" color="#ffff00">You don't need anything. 
+You're already fast enough.</font>
+
+339
+00:29:13,057 --> 00:29:14,807
+<font size="42" color="#ffff00">No, I'm not.</font>
+
+340
+00:29:15,147 --> 00:29:17,007
+<font size="42" color="#ffff00">You are.</font>
+
+341
+00:29:17,007 --> 00:29:22,557
+<font size="42" color="#ffff00">Seriously, Takumi, please stop thinking
+ about the small stuff and focus on the battle.</font>
+
+342
+00:29:22,557 --> 00:29:25,697
+<font size="42" color="#ffff00">By this time tomorrow, 
+you and Takahashi Ryosuke...</font>
+
+343
+00:29:28,807 --> 00:29:30,757
+<font size="42" color="#ffff00">A car's climbing up.</font>
+
+344
+00:29:30,757 --> 00:29:33,047
+<font size="42" color="#ffff00">Not one, but two cars.</font>
+
+345
+00:29:49,907 --> 00:29:53,007
+<font size="42" color="#ffff00">That's Takahashi Keisuke's FD.</font>
+
+346
+00:29:53,007 --> 00:29:56,807
+<font size="42" color="#ffff00">And that black GT-R must be 
+Nakazato Takeshi of the Night Kids.</font>
+
+347
+00:30:02,187 --> 00:30:04,857
+<font size="42" color="#ffff00">Why are they racing on Akina ?</font>
+
+348
+00:30:04,857 --> 00:30:07,407
+<font size="42" color="#ffff00">That surprised me !</font>
+
+349
+00:30:07,407 --> 00:30:12,927
+<font size="42" color="#ffff00">They looked so amazing from the outside. 
+Those cars are going very fast.</font>
+
+350
+00:30:13,807 --> 00:30:17,707
+<font size="42" color="#ffff00">What're you talking about ? 
+You look much cooler on the downhill.</font>
+
+351
+00:30:18,587 --> 00:30:20,007
+<font size="42" color="#ffff00">Have you forgotten ?</font>
+
+352
+00:30:21,507 --> 00:30:23,207
+<font size="42" color="#ffff00">You beat those two.</font>
+
+353
+00:30:24,137 --> 00:30:28,047
+<font size="42" color="#ffff00">My victory was under a specific condition...</font>
+
+354
+00:30:28,977 --> 00:30:34,307
+<font size="42" color="#ffff00">...but those guys are fast wherever they go.</font>
+
+355
+00:31:10,417 --> 00:31:14,107
+<font size="42" color="#ffff00">I'm so curious about that Eight-Six.</font>
+
+356
+00:31:14,977 --> 00:31:19,767
+<font size="42" color="#ffff00">It makes me come to Mt. Akina, 
+hoping that I can meet it again.</font>
+
+357
+00:31:21,127 --> 00:31:22,007
+<font size="42" color="#ffff00">Nakazato...</font>
+
+358
+00:31:22,537 --> 00:31:27,357
+<font size="42" color="#ffff00">Our team has a downhill specialist named Shingo.</font>
+
+359
+00:31:27,357 --> 00:31:29,807
+<font size="42" color="#ffff00">He has a terrible personality, but great skills.</font>
+
+360
+00:31:30,327 --> 00:31:37,327
+<font size="42" color="#ffff00">He was defeated by Akina's Eight-Six recently, 
+but he happily praises the Eight-Six driver's skills.</font>
+
+361
+00:31:37,967 --> 00:31:42,727
+<font size="42" color="#ffff00">He hardly ever compliments
+ anyone because he's so full of himself.</font>
+
+362
+00:31:43,787 --> 00:31:46,537
+<font size="42" color="#ffff00">That Eight-Six has a charm like that.</font>
+
+363
+00:31:47,257 --> 00:31:53,267
+<font size="42" color="#ffff00">Once you race him and see his drift before your eyes,
+ you'll be mesmerized by his splendid maneuvers.</font>
+
+364
+00:31:55,507 --> 00:32:00,507
+<font size="42" color="#ffff00">I don't want him to be 
+defeated by anyone but me.</font>
+
+365
+00:32:00,507 --> 00:32:02,247
+<font size="42" color="#ffff00">No matter who his opponent is.</font>
+
+366
+00:32:02,867 --> 00:32:04,807
+<font size="42" color="#ffff00">The Eight-Six is totally exposed.</font>
+
+367
+00:32:06,147 --> 00:32:10,607
+<font size="42" color="#ffff00">My brother has already completed 
+his simulation for victory in his head.</font>
+
+368
+00:32:11,407 --> 00:32:14,577
+<font size="42" color="#ffff00">I can't think of him losing.</font>
+
+369
+00:32:23,007 --> 00:32:27,927
+<font size="42" color="#ffff00"><font color="#ffffff">Both of them are in a class of their own, 
+but when they race, one of them will lose.</font></font>
+
+370
+00:32:29,097 --> 00:32:33,467
+<font size="42" color="#ffff00"><font color="#ffffff">I don't want to see 
+their battle for some reason.</font></font>
+
+371
+00:32:43,617 --> 00:32:45,457
+<font size="42" color="#ffff00">You know boys...</font>
+
+372
+00:32:45,457 --> 00:32:47,307
+<font size="42" color="#ffff00">They like cars.</font>
+
+373
+00:32:48,137 --> 00:32:50,157
+<font size="42" color="#ffff00">Are they that interesting ?</font>
+
+374
+00:32:50,157 --> 00:32:54,977
+<font size="42" color="#ffff00">Sure they are. 
+You can go anywhere you like.</font>
+
+375
+00:32:55,417 --> 00:32:56,617
+<font size="42" color="#ffff00">Is that all ?</font>
+
+376
+00:32:57,327 --> 00:32:59,257
+<font size="42" color="#ffff00">There's more to it.</font>
+
+377
+00:32:59,257 --> 00:33:02,207
+<font size="42" color="#ffff00">Any licensed driver can drive a car, but...</font>
+
+378
+00:33:02,857 --> 00:33:07,937
+<font size="42" color="#ffff00">...only a handful can truly master driving.</font>
+
+379
+00:33:09,167 --> 00:33:12,407
+<font size="42" color="#ffff00">I've been thinking a lot about things like that...</font>
+
+380
+00:33:13,747 --> 00:33:17,107
+<font size="42" color="#ffff00">...wondering what I should 
+do to become a faster driver.</font>
+
+381
+00:33:19,547 --> 00:33:23,347
+<font size="42" color="#ffff00">I feel good thinking about things like that.</font>
+
+382
+00:33:25,257 --> 00:33:28,227
+<font size="42" color="#ffff00">Takumi, you're a pervert.</font>
+
+383
+00:33:29,447 --> 00:33:30,867
+<font size="42" color="#ffff00">Where did that come from ?!{What's with you, all of a sudden ?}</font>
+
+384
+00:33:30,867 --> 00:33:33,657
+<font size="42" color="#ffff00">I see. I finally figured it out.</font>
+
+385
+00:33:33,657 --> 00:33:36,007
+<font size="42" color="#ffff00">I've been wondering why, but...</font>
+
+386
+00:33:37,007 --> 00:33:39,607
+<font size="42" color="#ffff00">I know the secret of your pheromones.</font>
+
+387
+00:33:40,027 --> 00:33:42,307
+<font size="42" color="#ffff00">You're answering your own question !</font>
+
+388
+00:33:42,307 --> 00:33:45,017
+<font size="42" color="#ffff00">I have no idea what you're talking about !</font>
+
+389
+00:33:45,017 --> 00:33:46,427
+<font size="42" color="#ffff00">Never mind. Never mind.</font>
+
+390
+00:33:48,507 --> 00:33:49,587
+<font size="42" color="#ffff00">Sheesh.</font>
+
+391
+00:33:56,217 --> 00:34:00,307
+<font size="42" color="#ffff00">Your race is tonight, isn't it ?</font>
+
+392
+00:34:00,307 --> 00:34:01,057
+<font size="42" color="#ffff00">Yup.</font>
+
+393
+00:34:02,107 --> 00:34:04,817
+<font size="42" color="#ffff00">I've seen an accident.</font>
+
+394
+00:34:07,067 --> 00:34:13,647
+<font size="42" color="#ffff00">You can lose, but don't crash no matter what.</font>
+
+395
+00:34:14,607 --> 00:34:16,087
+<font size="42" color="#ffff00">{yakusoku}Promise ?</font>
+
+396
+00:35:04,257 --> 00:35:06,787
+<font size="42" color="#ffff00">The moment of truth has come.</font>
+
+397
+00:35:06,787 --> 00:35:07,657
+<font size="42" color="#ffff00">Right.</font>
+
+398
+00:35:07,657 --> 00:35:12,097
+<font size="42" color="#ffff00">Undefeated street racer
+ Takahashi Ryosuke of the Akagi Red Suns...</font>
+
+399
+00:35:12,097 --> 00:35:17,307
+<font size="42" color="#ffff00">...and Akina's dazzling new star, who drives the Eight-Six and defeated Takahashi Keisuke and Nakazato Takeshi.</font>
+
+400
+00:35:17,927 --> 00:35:21,817
+<font size="42" color="#ffff00">This match'll decide Gunma's fastest driver.</font>
+
+401
+00:35:33,447 --> 00:35:37,777
+<font size="42" color="#ffff00">Hey, Mako, don't you think the mood is stuffy ?</font>
+
+402
+00:35:39,457 --> 00:35:41,807
+<font size="42" color="#ffff00">Is Akina always like this ?</font>
+
+403
+00:35:42,337 --> 00:35:44,807
+<font size="42" color="#ffff00">I feel odd.</font>
+
+404
+00:35:44,807 --> 00:35:48,807
+<font size="42" color="#ffff00">Whoever wins, it'll{I'd} be hard on us.</font>
+
+405
+00:35:48,807 --> 00:35:54,707
+<font size="42" color="#ffff00">Same here. Takahashi Ryosuke and 
+Akina's Eight-Six driver aren't just fast.</font>
+
+406
+00:35:54,707 --> 00:35:58,257
+<font size="42" color="#ffff00">They're charismatic drivers with mysterious appeal.</font>
+
+407
+00:35:59,057 --> 00:36:03,857
+<font size="42" color="#ffff00">I feel like something will 
+change when the battle ends.</font>
+
+408
+00:36:05,807 --> 00:36:07,747
+<font size="42" color="#ffff00">I see...</font>
+
+409
+00:36:33,977 --> 00:36:38,857
+<font size="42" color="#ffff00">Newbies like to watch from 
+way up there, which is so typical.</font>
+
+410
+00:36:39,977 --> 00:36:41,807
+<font size="42" color="#ffff00">The battle won't be decided up there.</font>
+
+411
+00:36:42,927 --> 00:36:45,807
+<font size="42" color="#ffff00">This's the only spot where they can make a move.</font>
+
+412
+00:36:46,787 --> 00:36:49,207
+<font size="42" color="#ffff00">That's your prediction as well, Shingo ?</font>
+
+413
+00:36:50,427 --> 00:36:52,207
+<font size="42" color="#ffff00">Just like you, I'd say.</font>
+
+414
+00:36:53,447 --> 00:36:54,457
+<font size="42" color="#ffff00">You too.</font>
+
+415
+00:37:03,627 --> 00:37:06,357
+<font size="42" color="#ffff00">Takumi isn't here yet.</font>
+
+416
+00:37:06,357 --> 00:37:09,807
+<font size="42" color="#ffff00">I can't take this heavy mood.</font>
+
+417
+00:37:10,587 --> 00:37:13,507
+<font size="42" color="#ffff00">The gallery along the course is huge.</font>
+
+418
+00:37:14,537 --> 00:37:20,347
+<font size="42" color="#ffff00">Iketani, what brings so many people here ?</font>
+
+419
+00:37:21,217 --> 00:37:25,027
+<font size="42" color="#ffff00">Well, it could be a yearning.</font>
+
+420
+00:37:25,987 --> 00:37:27,087
+<font size="42" color="#ffff00">A yearning...?</font>
+
+421
+00:37:27,727 --> 00:37:32,507
+<font size="42" color="#ffff00">A yearning for the super technique demonstrated by Takahashi Ryosuke and Takumi.</font>
+
+422
+00:37:33,177 --> 00:37:38,667
+<font size="42" color="#ffff00">Everyone gathered here likes cars so much.</font>
+
+423
+00:37:55,787 --> 00:37:57,847
+<font size="42" color="#ffff00">Here comes the panda Trueno !</font>
+
+424
+00:37:57,847 --> 00:38:00,377
+<font size="42" color="#ffff00">That's Akina's downhill specialist, huh ?</font>
+
+425
+00:38:00,377 --> 00:38:04,667
+<font size="42" color="#ffff00">Once you see his splendid drift,
+ you'll dream about it !</font>
+
+426
+00:38:12,547 --> 00:38:15,007
+<font size="42" color="#ffff00">Finally, the crowd's pumped up, Sayuki.</font>
+
+427
+00:38:16,307 --> 00:38:18,127
+<font size="42" color="#ffff00">He's good.</font>
+
+428
+00:38:19,187 --> 00:38:22,307
+<font size="42" color="#ffff00">Keisuke, I've been thinking 
+about this for a long time.</font>
+
+429
+00:38:22,307 --> 00:38:25,807
+<font size="42" color="#ffff00">When I lose in street racing, I'll retire.</font>
+
+430
+00:38:27,377 --> 00:38:30,207
+<font size="42" color="#ffff00">What's gotten in to you, all of a sudden ?</font>
+
+431
+00:38:30,207 --> 00:38:32,337
+<font size="42" color="#ffff00">You can't lose.</font>
+
+432
+00:38:32,907 --> 00:38:39,297
+<font size="42" color="#ffff00">I'll leave the front lines, and pursue my project for 
+the fastest team in the Kanto area in a different way.</font>
+
+433
+00:38:39,967 --> 00:38:44,507
+<font size="42" color="#ffff00">But what'll happen to the Red Suns if you quit ?</font>
+
+434
+00:38:45,787 --> 00:38:47,057
+<font size="42" color="#ffff00">We have you.</font>
+
+435
+00:38:47,657 --> 00:38:51,907
+<font size="42" color="#ffff00">I'm...I'm no match for you, Brother.</font>
+
+436
+00:38:51,907 --> 00:38:56,607
+<font size="42" color="#ffff00">We need you when the stakes are high.</font>
+
+437
+00:38:58,787 --> 00:39:04,937
+<font size="42" color="#ffff00">Only two drivers have made 
+me feel that I'll eventually lose.</font>
+
+438
+00:39:05,847 --> 00:39:08,507
+<font size="42" color="#ffff00">One of them is you, Keisuke.</font>
+
+439
+00:39:09,507 --> 00:39:10,407
+<font size="42" color="#ffff00">Me ?</font>
+
+440
+00:39:11,527 --> 00:39:13,537
+<font size="42" color="#ffff00">And the other one...</font>
+
+441
+00:39:33,607 --> 00:39:38,607
+<font size="42" color="#ffff00">Don't worry. 
+I don't think I'll lose any time soon.</font>
+
+442
+00:39:44,007 --> 00:39:44,907
+<font size="42" color="#ffff00">Takumi !</font>
+
+443
+00:39:45,647 --> 00:39:48,107
+<font size="42" color="#ffff00">Tonight, I'll drive at full throttle.</font>
+
+444
+00:39:49,657 --> 00:39:51,757
+<font size="42" color="#ffff00">It'll be fun.</font>
+
+445
+00:40:24,367 --> 00:40:25,507
+<font size="42" color="#ffff00">I'm going to count down !</font>
+
+446
+00:40:31,387 --> 00:40:32,307
+<font size="42" color="#ffff00">In five...</font>
+
+447
+00:40:32,657 --> 00:40:33,507
+<font size="42" color="#ffff00">Four...</font>
+
+448
+00:40:33,507 --> 00:40:34,367
+<font size="42" color="#ffff00">Three...</font>
+
+449
+00:40:34,667 --> 00:40:35,557
+<font size="42" color="#ffff00">Two...</font>
+
+450
+00:40:35,557 --> 00:40:36,647
+<font size="42" color="#ffff00">One...</font>
+
+451
+00:40:36,647 --> 00:40:37,667
+<font size="42" color="#ffff00">Go !</font>
+
+452
+00:40:39,867 --> 00:40:45,647
+<font size="42" color="#ffff00">It's begun ! It's the best downhill battle 
+in the history of Mt. Akina street racing !</font>
+
+453
+00:40:45,827 --> 00:40:48,857
+<font size="42" color="#ffff00">The Eight-Six's fighting 
+an equal battle with the FC !</font>
+
+454
+00:40:48,857 --> 00:40:51,157
+<font size="42" color="#ffff00">Go, Takumi !</font>
+
+455
+00:40:52,057 --> 00:40:56,757
+<font size="42" color="#ffff00"><font color="#ffffff">My brother's standard 
+strategy in an important battle.</font></font>
+
+456
+00:40:56,757 --> 00:40:59,767
+<font size="42" color="#ffff00"><font color="#ffffff">{wazato}He deliberately lets his opponent take the lead, and then overtakes them.</font></font>
+
+457
+00:40:59,767 --> 00:41:02,227
+<font size="42" color="#ffff00"><font color="#ffffff">He's defeated all his opponents that way.</font></font>
+
+458
+00:41:07,257 --> 00:41:08,907
+<font size="42" color="#ffff00">The Eight-Six is ahead.</font>
+
+459
+00:41:23,467 --> 00:41:27,357
+<font size="42" color="#ffff00">What an incredible super twin drift.
+ They almost touched.</font>
+
+460
+00:41:27,357 --> 00:41:30,327
+<font size="42" color="#ffff00">Both of them are showing
+ their best from the beginning.</font>
+
+461
+00:41:41,907 --> 00:41:44,647
+<font size="42" color="#ffff00">Both of them are so incredible !{It's just so incredible. Both of them.}</font>
+
+462
+00:41:44,647 --> 00:41:50,027
+<font size="42" color="#ffff00">But Takahashi Ryosuke usually
+ doesn't use drift that much.</font>
+
+463
+00:41:50,027 --> 00:41:55,057
+<font size="42" color="#ffff00">He must be trying to win in the field his opponent is best at for him to remain king of the street.</font>
+
+464
+00:41:57,097 --> 00:42:02,707
+<font size="42" color="#ffff00"><font color="#ffffff">Amazing. The angle of his counter steer is smaller than half a month ago.</font></font>
+
+465
+00:42:02,707 --> 00:42:06,307
+<font size="42" color="#ffff00"><font color="#ffffff">{turn-in}His tendency of taking a wide 
+counter steer during the turn-in is gone.</font></font>
+
+466
+00:42:07,007 --> 00:42:09,587
+<font size="42" color="#ffff00"><font color="#ffffff">{wazuka}He grew in such a short period of time.</font></font>
+
+467
+00:42:10,667 --> 00:42:14,127
+<font size="42" color="#ffff00"><font color="#ffffff">{daga}But that won't change the result. I'll still win.</font></font>
+
+468
+00:42:42,767 --> 00:42:45,007
+<font size="42" color="#ffff00"><font color="#ffffff">He's staying right behind me.</font></font>
+
+469
+00:43:06,527 --> 00:43:07,657
+<font size="42" color="#ffff00">Are you serious ?</font>
+
+470
+00:43:07,657 --> 00:43:13,007
+<font size="42" color="#ffff00">They skidded all the way through
+ this tricky downward complex curve.</font>
+
+471
+00:43:13,457 --> 00:43:17,707
+<font size="42" color="#ffff00">But it must be tough for the Eight-Six driver to have his opponent right behind him.</font>
+
+472
+00:43:18,137 --> 00:43:23,757
+<font size="42" color="#ffff00">Right. The chaser has the advantage
+ in both technique and mentality.</font>
+
+473
+00:43:23,757 --> 00:43:26,057
+<font size="42" color="#ffff00">{hashiriya}That's a street racer standard.</font>
+
+474
+00:43:26,337 --> 00:43:28,907
+<font size="42" color="#ffff00">On top of that, 
+his opponent is Takahashi Ryosuke.</font>
+
+475
+00:43:29,207 --> 00:43:31,727
+<font size="42" color="#ffff00">The pressure must be enormous.</font>
+
+476
+00:43:38,287 --> 00:43:41,157
+<font size="42" color="#ffff00"><font color="#ffffff">He's so good that he gives me chills.</font></font>
+
+477
+00:43:41,577 --> 00:43:44,187
+<font size="42" color="#ffff00"><font color="#ffffff">Beginners are only fast on the straightaways.</font></font>
+
+478
+00:43:45,347 --> 00:43:47,007
+<font size="42" color="#ffff00"><font color="#ffffff">Mid-level racers know the corners.</font></font>
+
+479
+00:43:47,817 --> 00:43:53,807
+<font size="42" color="#ffff00"><font color="#ffffff">{jokyuu}Top-level racers accel in the third point, 
+which isn't a straightaway or curve.</font></font>
+
+480
+00:43:53,807 --> 00:43:58,667
+<font size="42" color="#ffff00"><font color="#ffffff">{sono}The main theme of my fastest street racing theory is to perfect that third point.</font></font>
+
+481
+00:43:59,227 --> 00:44:04,417
+<font size="42" color="#ffff00"><font color="#ffffff">{sono}I've found a near perfect 
+sample in a place like this.</font></font>
+
+482
+00:44:07,107 --> 00:44:10,707
+<font size="42" color="#ffff00"><font color="#ffffff">{koushite}I can only keep up with him because
+ I'm copying his line and rhythm.</font></font>
+
+483
+00:44:10,707 --> 00:44:13,707
+<font size="42" color="#ffff00"><font color="#ffffff">{tandoku}But it'd be difficult for me to do the same alone.</font></font>
+
+484
+00:44:15,047 --> 00:44:16,577
+<font size="42" color="#ffff00"><font color="#ffffff">{osoroshii}He's frighteningly good.</font></font>
+
+485
+00:44:19,697 --> 00:44:21,727
+<font size="42" color="#ffff00"><font color="#ffffff">It's no good, I can't shake him !</font></font>
+
+486
+00:44:25,807 --> 00:44:28,857
+<font size="42" color="#ffff00">What ?! Are you sure
+ about your section time ?!</font>
+
+487
+00:44:28,857 --> 00:44:31,507
+<font size="42" color="#ffff00"><font color="#a9f4f5">I thought I messed up...</font></font>
+
+488
+00:44:31,857 --> 00:44:35,007
+<font size="42" color="#ffff00">...but they're eight seconds
+ faster than our first match here.</font>
+
+489
+00:44:35,487 --> 00:44:36,907
+<font size="42" color="#ffff00">Eight seconds ?</font>
+
+490
+00:44:36,907 --> 00:44:39,707
+<font size="42" color="#ffff00">Eight seconds faster than Keisuke's time ?</font>
+
+491
+00:44:41,567 --> 00:44:45,027
+<font size="42" color="#ffff00"><font color="#ffffff">What's happening to those two cars ?</font></font>
+
+492
+00:44:49,297 --> 00:44:52,777
+<font size="42" color="#ffff00"><font color="#ffffff">I'm not done yet ! I still have <i>it </i>!</font></font>
+
+493
+00:45:04,287 --> 00:45:06,377
+<font size="42" color="#ffff00"><font color="#ffffff">My gutter run didn't work.</font></font>
+
+494
+00:45:07,107 --> 00:45:10,377
+<font size="42" color="#ffff00"><font color="#ffffff">He's not an opponent I can defeat after all.</font></font>
+
+495
+00:45:10,987 --> 00:45:15,707
+<font size="42" color="#ffff00"><font color="#ffffff">I'm going to lose this battle. 
+I hate it, but I'm going to lose.</font></font>
+
+496
+00:45:20,187 --> 00:45:23,207
+<font size="42" color="#ffff00">That's right.
+ If they reach the goal at this pace...</font>
+
+497
+00:45:23,207 --> 00:45:28,137
+<font size="42" color="#ffff00"><font color="#a9f4f5">...they can shorten the 
+course record by 12 seconds.</font></font>
+
+498
+00:45:29,017 --> 00:45:32,207
+<font size="42" color="#ffff00">Gimme a break. This is madness.</font>
+
+499
+00:45:35,347 --> 00:45:37,007
+<font size="42" color="#ffff00">This is too much.{enough.}</font>
+
+500
+00:45:37,007 --> 00:45:39,627
+<font size="42" color="#ffff00">Yeah, I have a bad feeling.</font>
+
+501
+00:45:40,007 --> 00:45:43,807
+<font size="42" color="#ffff00">It's the ultimate all-out battle
+ that only those two could pull off.</font>
+
+502
+00:45:43,807 --> 00:45:47,777
+<font size="42" color="#ffff00">Tonight's battle will become legendary for sure.</font>
+
+503
+00:45:49,697 --> 00:45:50,727
+<font size="42" color="#ffff00"><font color="#ffffff">Takumi...</font></font>
+
+504
+00:45:58,457 --> 00:46:00,707
+<font size="42" color="#ffff00">They're approaching the five consecutive hairpins.</font>
+
+505
+00:46:00,707 --> 00:46:04,207
+<font size="42" color="#ffff00">I'm looking forward to their hard braking match just before the first corner.</font>
+
+506
+00:46:05,947 --> 00:46:07,227
+<font size="42" color="#ffff00">The Eight-Six is ahead !</font>
+
+507
+00:46:14,097 --> 00:46:16,107
+<font size="42" color="#ffff00">You won't be able to turn at that speed.</font>
+
+508
+00:46:18,017 --> 00:46:23,027
+<font size="42" color="#ffff00">Dammit ! Turn !</font>
+
+509
+00:46:27,777 --> 00:46:30,537
+<font size="42" color="#ffff00">He was passed.
+The FC took the lead.</font>
+
+510
+00:46:30,537 --> 00:46:34,757
+<font size="42" color="#ffff00">I can't believe this. 
+The Eight-Six under-steered.</font>
+
+511
+00:46:34,757 --> 00:46:39,547
+<font size="42" color="#ffff00">So no street racer can escape 
+Takahashi Ryosuke after all.</font>
+
+512
+00:46:41,307 --> 00:46:42,907
+<font size="42" color="#ffff00"><font color="#ffffff">He's strange.</font></font>
+
+513
+00:46:42,907 --> 00:46:47,007
+<font size="42" color="#ffff00"><font color="#ffffff">He's got incredible skills,
+ but he's not used to racing.</font></font>
+
+514
+00:46:47,007 --> 00:46:49,007
+<font size="42" color="#ffff00"><font color="#ffffff">{oikomu}He's unexpectedly fragile when pressured.</font></font>
+
+515
+00:46:49,777 --> 00:46:53,017
+<font size="42" color="#ffff00"><font color="#ffffff">{mou}I wasn't going to show my card by 
+staying behind him a little longer...</font></font>
+
+516
+00:46:53,537 --> 00:46:57,057
+<font size="42" color="#ffff00"><font color="#ffffff">{mae}...but now that I'm ahead,
+ I'll just pull away and settle this match.</font></font>
+
+517
+00:47:05,067 --> 00:47:10,757
+<font size="42" color="#ffff00">Better than I've heard. Their speed range is
+ way higher than that of the average drift brats.</font>
+
+518
+00:47:10,757 --> 00:47:15,107
+<font size="42" color="#ffff00">But it's over, right ? 
+Takahashi Ryosuke's going to win this battle.</font>
+
+519
+00:47:15,107 --> 00:47:17,657
+<font size="42" color="#ffff00">You're right, since he's taken the lead.</font>
+
+520
+00:47:17,657 --> 00:47:21,887
+<font size="42" color="#ffff00">But the Eight-Six's line is slightly better.</font>
+
+521
+00:47:21,887 --> 00:47:24,167
+<font size="42" color="#ffff00">{ano}The Eight-Six isn't done yet.</font>
+
+522
+00:47:34,017 --> 00:47:38,127
+<font size="42" color="#ffff00"><font color="#ffffff">He's not pulling away. 
+I thought I'd fall behind right away.</font></font>
+
+523
+00:47:38,607 --> 00:47:41,207
+<font size="42" color="#ffff00"><font color="#ffffff">There's no difference in speed.</font></font>
+
+524
+00:47:41,207 --> 00:47:44,777
+<font size="42" color="#ffff00"><font color="#ffffff">Then I should shorten the
+ gap as much as possible.</font></font>
+
+525
+00:47:45,297 --> 00:47:50,617
+<font size="42" color="#ffff00"><font color="#ffffff">Whether it's a meter or two, I must 
+get closer to the RX-7 before me !</font></font>
+
+526
+00:47:57,617 --> 00:48:00,727
+<font size="42" color="#ffff00"><font color="#ffffff">I'm closing in.
+The gap's getting narrower.</font></font>
+
+527
+00:48:01,387 --> 00:48:04,487
+<font size="42" color="#ffff00"><font color="#ffffff">I haven't lost. I am faster.</font></font>
+
+528
+00:48:11,627 --> 00:48:15,807
+<font size="42" color="#ffff00"><font color="#ffffff">The front tires are losing grip.
+They're overheating at this critical moment.</font></font>
+
+529
+00:48:15,807 --> 00:48:20,347
+<font size="42" color="#ffff00"><font color="#ffffff">But my skills are solid even
+ if the tires are a bit worn.</font></font>
+
+530
+00:48:20,647 --> 00:48:22,897
+<font size="42" color="#ffff00">I'll be the winner.</font>
+
+531
+00:48:28,167 --> 00:48:32,367
+<font size="42" color="#ffff00">Alright, go !</font>
+
+532
+00:48:52,247 --> 00:48:53,257
+<font size="42" color="#ffff00">Finally.</font>
+
+533
+00:48:53,907 --> 00:48:58,617
+<font size="42" color="#ffff00">Judging from the squealing sound, the
+ battle must be deadlocked as expected.</font>
+
+534
+00:48:59,017 --> 00:49:04,087
+<font size="42" color="#ffff00">The goal is right ahead. This's the only point where they can make a risky final maneuver.</font>
+
+535
+00:49:04,527 --> 00:49:08,457
+<font size="42" color="#ffff00">This straightaway will give them 
+enough speed for a braking contest.</font>
+
+536
+00:49:08,457 --> 00:49:13,107
+<font size="42" color="#ffff00">{michi}Akina's roads are mostly narrow, 
+but only this corner has three lanes...</font>
+
+537
+00:49:13,107 --> 00:49:15,247
+<font size="42" color="#ffff00">{line}...which allows for flexible line taking.</font>
+
+538
+00:49:15,247 --> 00:49:19,417
+<font size="42" color="#ffff00">{soshite}Ahead of that is a combined
+ curve of two different radii.</font>
+
+539
+00:49:19,857 --> 00:49:23,207
+<font size="42" color="#ffff00">{kono}The one who takes the
+ lead in this corner will win.</font>
+
+540
+00:49:25,827 --> 00:49:26,847
+<font size="42" color="#ffff00">Here they come !</font>
+
+541
+00:49:28,867 --> 00:49:31,617
+<font size="42" color="#ffff00">Good ! The Eight-Six is right behind !</font>
+
+542
+00:49:31,617 --> 00:49:34,607
+<font size="42" color="#ffff00">What're you going to do ?
+ How are you going to attack ?</font>
+
+543
+00:49:42,267 --> 00:49:43,487
+<font size="42" color="#ffff00">Outside ?</font>
+
+544
+00:49:43,727 --> 00:49:48,137
+<font size="42" color="#ffff00">You can't overtake from the outside ! 
+The shorter inside path is the best choice{has the merit} !</font>
+
+545
+00:50:02,027 --> 00:50:05,657
+<font size="42" color="#ffff00">The FC's sliding ! He'll miss the
+ clipping point and lose momentum !</font>
+
+546
+00:50:05,657 --> 00:50:06,627
+<font size="42" color="#ffff00">The Eight-Six ?</font>
+
+547
+00:50:13,707 --> 00:50:15,187
+<font size="42" color="#ffff00">He's got it !</font>
+
+548
+00:50:39,427 --> 00:50:42,457
+<font size="42" color="#ffff00">This thrill. I can't get enough of this.</font>
+
+549
+00:50:43,107 --> 00:50:44,047
+<font size="42" color="#ffff00">Yeah.</font>
+
+550
+00:50:44,977 --> 00:50:50,937
+<font size="42" color="#ffff00">When their lines crossed during the four-wheel drift,
+ I felt goose bumps all over my body.</font>
+
+551
+00:50:51,947 --> 00:50:56,127
+<font size="42" color="#ffff00">We were lucky to be able to see a real battle.</font>
+
+552
+00:51:02,847 --> 00:51:06,167
+<font size="42" color="#ffff00"><font color="#ffffff">{There was} No word was spoken from either side.</font></font>
+
+553
+00:51:06,907 --> 00:51:10,337
+<font size="42" color="#ffff00"><font color="#ffffff">Not from the one who was disappointed in Takahashi Ryosuke's defeat...</font></font>
+
+554
+00:51:10,337 --> 00:51:13,567
+<font size="42" color="#ffff00"><font color="#ffffff">...nor the one who was
+ overjoyed with Takumi's victory.</font></font>
+
+555
+00:51:14,487 --> 00:51:18,657
+<font size="42" color="#ffff00"><font color="#ffffff">Everyone just stood there.{there stood still.}</font></font>
+
+556
+00:51:20,897 --> 00:51:30,457
+<font size="42" color="#ffff00"><font color="#ffffff">The only thing that was certain was{One thing for sure was} that the miraculous battle on Akina ended with{in} an unbeatable downhill course record.{ in Akina.}</font></font>
+
+557
+00:51:31,337 --> 00:51:34,407
+<font size="42" color="#ffff00"><font color="#ffffff">And something else began.</font></font>
+
+558
+00:51:42,507 --> 00:51:46,207
+<font size="42" color="#ffff00">Something's bothering me. Can I ask ?</font>
+
+559
+00:51:48,217 --> 00:51:51,107
+<font size="42" color="#ffff00">Why did you wait until I caught you ?</font>
+
+560
+00:51:52,227 --> 00:51:57,367
+<font size="42" color="#ffff00">You're completely mistaken.
+You increased your pace.</font>
+
+561
+00:51:58,927 --> 00:52:04,467
+<font size="42" color="#ffff00">Indeed, my car's front tires were worn, 
+but I kept my loss of pace to a minimum.</font>
+
+562
+00:52:05,167 --> 00:52:08,417
+<font size="42" color="#ffff00">I have no excuse. 
+We fought under the same conditions.</font>
+
+563
+00:52:09,057 --> 00:52:14,257
+<font size="42" color="#ffff00">You didn't abuse your tires.
+ I admit my defeat.</font>
+
+564
+00:52:16,347 --> 00:52:20,207
+<font size="42" color="#ffff00">How did you attain such skills at your age ?</font>
+
+565
+00:52:20,207 --> 00:52:22,907
+<font size="42" color="#ffff00">You keep amazing me.</font>
+
+566
+00:52:22,907 --> 00:52:25,207
+<font size="42" color="#ffff00">Everyone's overrating me.</font>
+
+567
+00:52:25,207 --> 00:52:29,507
+<font size="42" color="#ffff00">I'm just familiar with Akina because
+ I've driven here so many times.</font>
+
+568
+00:52:29,507 --> 00:52:32,307
+<font size="42" color="#ffff00">{tokubetsu}I don't have any special technique.</font>
+
+569
+00:52:32,307 --> 00:52:34,137
+<font size="42" color="#ffff00">I...</font>
+
+570
+00:52:34,497 --> 00:52:38,507
+<font size="42" color="#ffff00">I don't think I'm faster. Not at all.</font>
+
+571
+00:52:42,417 --> 00:52:45,447
+<font size="42" color="#ffff00">Did you stop me to tell me things like that ?</font>
+
+572
+00:52:48,857 --> 00:52:53,557
+<font size="42" color="#ffff00">I've met so many people, but you're unique.</font>
+
+573
+00:52:54,537 --> 00:52:56,697
+<font size="42" color="#ffff00">You're a nice person. I like you.</font>
+
+574
+00:52:58,247 --> 00:52:59,767
+<font size="42" color="#ffff00">Fujiwara Takumi, right ?</font>
+
+575
+00:53:00,907 --> 00:53:05,707
+<font size="42" color="#ffff00">Don't be satisfied with a small stage. 
+Look out to a bigger world.</font>
+
+576
+00:53:07,667 --> 00:53:09,247
+<font size="42" color="#ffff00"><font color="#ffffff">A bigger world...</font></font>
+
+577
+00:53:09,897 --> 00:53:11,067
+<font size="42" color="#ffff00">See you again.</font>
+
+578
+00:53:31,217 --> 00:53:37,937
+<font size="42" color="#ffff00"><font color="#ffffff">A bigger world, huh ? 
+That must be what's been bugging me.</font></font>
+
+579
+00:53:39,747 --> 00:53:43,137
+<font size="42" color="#ffff00"><font color="#ffffff">I learned and developed my driving on Akina.</font></font>
+
+580
+00:53:43,807 --> 00:53:46,107
+<font size="42" color="#ffff00"><font color="#ffffff">I only know Akina's mountain pass.</font></font>
+
+581
+00:53:46,107 --> 00:53:49,907
+<font size="42" color="#ffff00"><font color="#ffffff">What kind of mountain passes are out there ?</font></font>
+
+582
+00:53:49,907 --> 00:53:54,567
+<font size="42" color="#ffff00"><font color="#ffffff">{donna}What kind of drivers are there ? 
+What and how do they drive ?</font></font>
+
+583
+00:54:12,977 --> 00:54:13,707
+<font size="42" color="#ffff00">Here.</font>
+
+584
+00:54:23,007 --> 00:54:23,607
+<font size="42" color="#ffff00"><font color="#a9f4f5">Takumi... {BUNTA: Takumi.}</font></font>
+
+585
+00:54:23,007 --> 00:54:23,607
+<font size="42" color="#ffff00">Dad... {BUNTA: Takumi.}</font>
+
+586
+00:54:24,267 --> 00:54:26,007
+<font size="42" color="#ffff00">What is it, Dad ?</font>
+
+587
+00:54:26,257 --> 00:54:28,567
+<font size="42" color="#ffff00">What is it ? Say it.</font>
+
+588
+00:54:28,567 --> 00:54:32,207
+<font size="42" color="#ffff00">It's just...nothing important.</font>
+
+589
+00:54:32,497 --> 00:54:34,387
+<font size="42" color="#ffff00">Mine isn't either.</font>
+
+590
+00:54:35,967 --> 00:54:37,007
+<font size="42" color="#ffff00">I see.</font>
+
+591
+00:54:41,047 --> 00:54:41,977
+<font size="42" color="#ffff00">I'm off.</font>
+
+592
+00:55:07,557 --> 00:55:08,557
+<font size="42" color="#ffff00">Let's see...</font>
+
+593
+00:55:23,207 --> 00:55:24,547
+<font size="42" color="#ffff00">That car...</font>
+
+594
+00:55:30,607 --> 00:55:32,007
+<font size="42" color="#ffff00">{SHINICHIROMIKI }Show me what you've got.</font>
+
+595
+00:55:46,257 --> 00:55:47,257
+<font size="42" color="#ffff00">Alright !</font>
+
+596
+00:56:02,257 --> 00:56:18,657
+<font face="Qlassik Bold" size="40">{\an3}{.CAST1..} Fujiwara Takumi:
+Takahashi Ryosuke:
+Takahashi Keisuke: 
+Nakazato Takeshi:
+Shoji Shingo:
+Takeuchi Itsuki:
+Iketani Koichiro:
+Mogi Natsuki:
+Tachibana Yuichi
+Kenji:
+Mamoru:
+Shigeru:
+Fumihiro:
+Nakamura Kenta:
+Sato Mako
+Sayuki:
+Shoichi:
+Hiromichi: 
+Akio:
+Fujiwara Bunta:</font>
+
+597
+00:56:02,257 --> 00:56:18,657
+<font face="Qlassik Bold" size="40">{\an7}{.CAST1..}Miyano Mamoru
+Ono Daisuke
+Nakamura Yuichi
+Suwabe Junichi
+Sakaguchi Shuhei
+Shiraishi Minoru
+Tsuchida Hiroshi
+Uchida Maaya
+Shimura Tomoyuki
+Katsu Anri
+Goto Kosuke
+Nozawa So
+Fukuda Kenji
+Naruke Yoshiya
+Hara Yumi
+Okuno Kaya
+Irikura Keisuke
+Fujimaki Daigo
+Taira Osamu
+Hirata Hiroaki</font>
+
+598
+00:56:19,697 --> 00:56:24,007
+<font face="Qlassik Bold" size="40">{modorenai route wo erabeba}The route of no return is chosen.</font>
+
+599
+00:56:24,007 --> 00:56:26,947
+<font face="Qlassik Bold" size="40">{kake nukeru dakesa drastic}So just race through it. So drastic.</font>
+
+600
+00:56:25,007 --> 00:56:31,007
+<font face="Qlassik Bold" size="40">{\an8}Editing
+<font color="#60d010"><font color="#80ffff">Todd Perkins
+Barbara
+Dave
+Mouse
+Steve S.
+Randall</font></font></font>
+
+601
+00:56:25,007 --> 00:56:31,007
+<font face="Qlassik Bold" size="40">{\an8}Timing
+<font color="#60d010">Todd Perkins</font></font>
+
+602
+00:56:25,007 --> 00:56:31,007
+<font face="Qlassik Bold" size="40">{\an5}A
+<font color="#60d010"><font color="#80ffff">Central Anime
+<font color="#00d0d0">Production</font></font></font></font>
+
+603
+00:56:26,947 --> 00:56:29,847
+<font face="Qlassik Bold" size="40">{haritsuku yami wo furikire}Leave the endless darkness behind.</font>
+
+604
+00:56:29,847 --> 00:56:34,867
+<font face="Qlassik Bold" size="40">{jibun wo tameshitai nonara aimai breaking}Test yourself ? Then break free from ambiguity.</font>
+
+605
+00:56:34,867 --> 00:56:39,907
+<font face="Qlassik Bold" size="40">{hiroi ageru luck tazusaete idome}Pick up pieces of luck and take up the challenge.</font>
+
+606
+00:56:39,907 --> 00:56:45,057
+<font face="Qlassik Bold" size="40">{haneru shousou sou sore wa invitation}Frustration runs wild. Yes, that's an invitation.</font>
+
+607
+00:56:45,057 --> 00:56:49,297
+<font face="Qlassik Bold" size="40">{tobikonda nara nigerarenai dead or alive}Once you dive in, you can't escape. Dead or alive.</font>
+
+608
+00:56:49,297 --> 00:56:54,427
+<font face="Qlassik Bold" size="40">{risei to emotion semegiau saki wa in to dark}Clash of rationale and emotion may leave you in the dark.</font>
+
+609
+00:56:55,047 --> 00:56:59,147
+<font face="Qlassik Bold" size="40">{hiki chigire ima kono gravity}Tear away from {the}gravity now.</font>
+
+610
+00:56:59,467 --> 00:57:04,337
+<font face="Qlassik Bold" size="40">{nari hibiiteru kokoro no caution todorokasete}Make the sound of caution ring{ing} in your heart.</font>
+
+611
+00:57:05,097 --> 00:57:07,647
+<font face="Qlassik Bold" size="40">{hahitte kanakya imi nai}It's a race for speed or nothing.</font>
+
+612
+00:57:07,647 --> 00:57:09,847
+<font face="Qlassik Bold" size="40">{tamerai wo suteta nara}When you stop hesitating...</font>
+
+613
+00:57:09,847 --> 00:57:17,767
+<font face="Qlassik Bold" size="40">{kitto tsukameru darou chasing dream kono te de}...you'll hold the dream you've been chasing in your hand.</font>
+
+614
+00:57:25,417 --> 00:57:30,457
+<font face="Qlassik Bold" size="40">{haneru shousou sou sore wa invitation}Frustration runs wild. Yes, that's an invitation.</font>
+
+615
+00:57:30,457 --> 00:57:34,707
+<font face="Qlassik Bold" size="40">{ato saki janai chance wa ima}Not later. Don't put it off. Now is the chance.</font>
+
+616
+00:57:34,707 --> 00:57:40,557
+<font face="Qlassik Bold" size="40">{signal yori mo shinjitai mono ga arunosa}There's something more credible than the street signal.</font>
+
+617
+00:57:40,557 --> 00:57:44,987
+<font face="Qlassik Bold" size="40">{tobikonda nara nigerarenai dead or alive}Once you dive in, you can't escape. Dead or alive.</font>
+
+618
+00:57:46,127 --> 00:57:51,087
+<font face="Qlassik Bold" size="40">{risei to emotion semegiau saki wa in to dark}Clash of rationale and emotion may leave you in the dark.</font>
+
+619
+00:57:51,907 --> 00:57:56,047
+<font face="Qlassik Bold" size="40">{hiki chigire ima kono gravity}Tear away from{the} gravity now.</font>
+
+620
+00:57:56,047 --> 00:58:01,267
+<font face="Qlassik Bold" size="40">{nari hibiiteru kokoro no caution todorokasete}Make the sound of caution ring{ing} in your heart.</font>
+
+621
+00:58:01,897 --> 00:58:04,407
+<font face="Qlassik Bold" size="40">{hahitte kanakya imi nai}It's a race for speed or nothing.</font>
+
+622
+00:58:04,407 --> 00:58:06,667
+<font face="Qlassik Bold" size="40">{tamerai wo suteta nara}When you stop hesitating...</font>
+
+623
+00:58:06,667 --> 00:58:13,647
+<font face="Qlassik Bold" size="40">{kitto tsukameru darou chasing dream ikou}...you'll hold the dream you've been chasing. Let's go.</font>
+
+624
+00:58:14,747 --> 00:58:21,667
+<font face="Qlassik Bold" size="40">{tadori tsukeru darou chasing dream kono te de}You'll realize the dream you've been chasing on your own.</font>
+
+625
+00:59:07,967 --> 00:59:10,357
+<font size="42" color="#ffff00">Me, in an expedition match ?{, with me ?}</font>
+
+626
+00:59:11,207 --> 00:59:15,307
+<font size="42" color="#ffff00">Unfortunately, I don't have much time left.</font>
+
+627
+00:59:15,307 --> 00:59:17,807
+<font size="42" color="#ffff00">I think I have only one year at most.</font>
+
+628
+00:59:18,507 --> 00:59:22,607
+<font size="42" color="#ffff00">Before then, I want to see the end of this game.</font>
+
+629
+00:59:23,577 --> 00:59:24,607
+<font size="42" color="#ffff00">Let me get to the point.</font>
+
+630
+00:59:25,377 --> 00:59:31,807
+<font size="42" color="#ffff00">I want my expedition team to completely dominate the
+ Kanto area, and I want you to join our team as a driver.</font>
+
+631
+00:59:33,347 --> 00:59:37,807
+<font size="42" color="#ffff00">If we combine your gifted skills 
+and my theory, we're unbeatable.</font>
+
+632
+00:59:38,327 --> 00:59:40,757
+<font size="42" color="#ffff00">Mountain passes in other prefectures ?</font>
+
+633
+00:59:41,377 --> 00:59:46,067
+<font size="42" color="#ffff00">Our goal's to become the fastest street 
+racing legend. My Project D has begun.</font>
+
